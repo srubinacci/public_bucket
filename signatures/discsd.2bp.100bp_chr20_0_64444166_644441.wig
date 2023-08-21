@@ -1,0 +1,11147 @@
+browser position chr20:5815500-14862300
+browser hide all
+track type=wiggle_0 name="discsd.2bp.100bp" description="discsd.2bp.100bp" visibility=full autoScale=off viewLimits=0:1 priority=10
+fixedStep chrom=chr20 start=161400 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=336300 step=100 span=100
+0.09
+0.10
+fixedStep chrom=chr20 start=338500 step=100 span=100
+0.06
+0.23
+0.08
+fixedStep chrom=chr20 start=385100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=452800 step=100 span=100
+0.10
+0.31
+0.47
+0.60
+0.57
+0.33
+fixedStep chrom=chr20 start=454000 step=100 span=100
+0.08
+0.55
+0.66
+0.54
+0.35
+0.20
+0.09
+fixedStep chrom=chr20 start=525400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=526300 step=100 span=100
+0.15
+0.06
+fixedStep chrom=chr20 start=641700 step=100 span=100
+0.09
+0.05
+fixedStep chrom=chr20 start=642400 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=1114200 step=100 span=100
+0.06
+0.20
+0.16
+0.05
+fixedStep chrom=chr20 start=1114700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=1115200 step=100 span=100
+0.09
+0.10
+0.06
+fixedStep chrom=chr20 start=1258500 step=100 span=100
+0.09
+0.14
+0.12
+0.34
+fixedStep chrom=chr20 start=1259400 step=100 span=100
+0.08
+0.20
+0.24
+0.16
+fixedStep chrom=chr20 start=1260400 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=1302100 step=100 span=100
+0.21
+0.09
+0.09
+fixedStep chrom=chr20 start=1400200 step=100 span=100
+0.45
+fixedStep chrom=chr20 start=1402900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=1407900 step=100 span=100
+0.05
+0.22
+0.41
+0.56
+0.63
+0.50
+0.13
+0.16
+0.15
+0.14
+0.19
+0.19
+0.17
+0.16
+0.15
+0.15
+0.13
+0.13
+0.14
+0.19
+0.17
+0.14
+0.36
+0.61
+0.62
+0.49
+0.29
+0.09
+fixedStep chrom=chr20 start=1575000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=1576300 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=1578500 step=100 span=100
+0.05
+0.09
+0.05
+0.05
+fixedStep chrom=chr20 start=1579900 step=100 span=100
+0.08
+0.15
+0.30
+0.45
+0.36
+0.15
+0.15
+0.31
+0.30
+0.28
+0.27
+0.18
+0.11
+0.18
+0.18
+0.14
+0.13
+0.23
+0.26
+0.27
+0.30
+0.28
+0.20
+0.12
+0.14
+0.14
+0.19
+0.27
+0.36
+0.31
+0.31
+0.27
+0.23
+0.21
+0.21
+0.24
+0.29
+0.29
+0.26
+0.25
+0.28
+0.25
+0.24
+0.21
+0.22
+0.25
+0.20
+0.22
+0.26
+0.21
+0.26
+0.22
+0.24
+0.22
+0.25
+0.24
+0.19
+0.12
+0.27
+0.26
+0.21
+0.24
+0.26
+0.27
+0.29
+0.29
+0.22
+0.22
+0.21
+0.25
+0.26
+0.29
+0.27
+0.30
+0.24
+0.20
+0.23
+0.24
+0.21
+0.28
+0.25
+0.24
+0.28
+0.27
+0.35
+0.30
+0.33
+0.24
+0.20
+0.27
+0.25
+0.32
+0.38
+0.29
+0.25
+0.26
+0.26
+0.28
+0.21
+0.27
+0.23
+0.25
+0.28
+0.32
+0.31
+0.26
+0.21
+0.21
+0.22
+0.22
+0.26
+0.27
+0.32
+0.29
+0.28
+0.25
+0.23
+0.23
+0.23
+0.26
+0.31
+0.26
+0.25
+0.24
+0.23
+0.19
+0.23
+0.23
+0.25
+0.28
+0.25
+0.21
+0.22
+0.15
+0.17
+0.21
+0.24
+0.26
+0.26
+0.26
+0.22
+0.21
+0.15
+0.23
+0.23
+0.23
+0.26
+0.25
+0.29
+0.23
+0.21
+0.19
+0.20
+0.25
+0.25
+0.21
+0.17
+0.17
+0.16
+0.22
+0.22
+0.28
+0.25
+0.24
+0.27
+0.27
+0.31
+0.24
+0.23
+0.18
+0.24
+0.26
+0.25
+0.23
+0.25
+0.22
+0.22
+0.21
+0.25
+0.24
+0.18
+0.21
+0.19
+0.25
+0.28
+0.26
+0.20
+0.24
+0.20
+0.20
+0.21
+0.26
+0.31
+0.25
+0.24
+0.26
+0.24
+0.18
+0.19
+0.27
+0.28
+0.23
+0.27
+0.28
+0.25
+0.22
+0.24
+0.31
+0.27
+0.25
+0.21
+0.20
+0.24
+0.24
+0.23
+0.23
+0.20
+0.18
+0.21
+0.18
+0.22
+0.24
+0.27
+0.23
+0.26
+0.25
+0.24
+0.22
+0.21
+0.28
+0.28
+0.27
+0.27
+0.25
+0.24
+0.28
+0.30
+0.32
+0.29
+0.19
+0.19
+0.15
+0.14
+0.23
+0.31
+0.34
+0.26
+0.24
+0.22
+0.21
+0.29
+0.29
+0.32
+0.24
+0.18
+0.08
+0.16
+0.23
+0.24
+0.21
+0.20
+0.15
+0.07
+fixedStep chrom=chr20 start=1606300 step=100 span=100
+0.05
+0.05
+0.07
+0.08
+0.10
+0.13
+0.06
+fixedStep chrom=chr20 start=1607600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=1608400 step=100 span=100
+0.07
+0.07
+0.05
+fixedStep chrom=chr20 start=1609000 step=100 span=100
+0.05
+0.12
+0.22
+0.21
+0.22
+0.22
+0.18
+0.18
+0.22
+0.19
+0.22
+0.21
+0.23
+0.23
+0.15
+0.17
+0.21
+0.24
+0.22
+0.21
+0.19
+0.18
+0.18
+0.20
+0.18
+0.42
+0.43
+0.19
+0.22
+0.28
+0.21
+0.20
+0.15
+0.19
+0.18
+0.18
+0.23
+0.22
+0.19
+0.17
+0.20
+0.18
+0.18
+0.14
+fixedStep chrom=chr20 start=1613500 step=100 span=100
+0.33
+0.42
+0.27
+0.14
+fixedStep chrom=chr20 start=1744000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=1839300 step=100 span=100
+0.07
+0.07
+0.08
+fixedStep chrom=chr20 start=1840100 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=2014400 step=100 span=100
+0.11
+0.34
+0.53
+0.55
+0.25
+fixedStep chrom=chr20 start=2016900 step=100 span=100
+0.37
+0.56
+0.46
+0.20
+fixedStep chrom=chr20 start=2379000 step=100 span=100
+0.28
+0.46
+0.35
+fixedStep chrom=chr20 start=2380000 step=100 span=100
+0.09
+0.20
+0.19
+0.14
+fixedStep chrom=chr20 start=2808300 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=2821900 step=100 span=100
+0.10
+0.30
+0.45
+0.54
+0.62
+0.58
+0.30
+fixedStep chrom=chr20 start=2822800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=2823000 step=100 span=100
+0.13
+0.16
+0.22
+0.22
+0.11
+fixedStep chrom=chr20 start=2825200 step=100 span=100
+0.06
+0.05
+0.06
+0.09
+0.09
+0.39
+0.57
+0.56
+0.43
+0.28
+0.12
+fixedStep chrom=chr20 start=2882800 step=100 span=100
+0.14
+0.30
+0.25
+0.23
+0.25
+0.11
+0.08
+0.05
+0.07
+0.26
+0.37
+0.34
+0.25
+0.12
+fixedStep chrom=chr20 start=3032200 step=100 span=100
+0.08
+0.22
+0.18
+0.05
+fixedStep chrom=chr20 start=3033700 step=100 span=100
+0.12
+0.24
+0.10
+fixedStep chrom=chr20 start=3040600 step=100 span=100
+0.07
+0.14
+0.20
+0.25
+0.19
+fixedStep chrom=chr20 start=3041400 step=100 span=100
+0.07
+0.27
+0.21
+0.22
+0.14
+0.05
+fixedStep chrom=chr20 start=3056800 step=100 span=100
+0.10
+0.20
+0.22
+0.11
+0.05
+fixedStep chrom=chr20 start=3057500 step=100 span=100
+0.07
+0.15
+0.35
+0.21
+0.09
+fixedStep chrom=chr20 start=3136600 step=100 span=100
+0.14
+0.13
+fixedStep chrom=chr20 start=3378400 step=100 span=100
+0.06
+0.28
+0.44
+0.32
+0.06
+fixedStep chrom=chr20 start=3379400 step=100 span=100
+0.18
+0.48
+0.37
+0.13
+fixedStep chrom=chr20 start=3383400 step=100 span=100
+0.44
+0.51
+fixedStep chrom=chr20 start=3394500 step=100 span=100
+0.05
+0.14
+0.18
+0.15
+fixedStep chrom=chr20 start=3395300 step=100 span=100
+0.06
+0.15
+0.13
+0.12
+fixedStep chrom=chr20 start=3440600 step=100 span=100
+0.05
+0.09
+0.20
+0.18
+0.06
+fixedStep chrom=chr20 start=3441500 step=100 span=100
+0.09
+0.13
+0.12
+fixedStep chrom=chr20 start=3715900 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=3718600 step=100 span=100
+0.21
+0.14
+fixedStep chrom=chr20 start=3813900 step=100 span=100
+0.20
+0.44
+0.55
+0.59
+0.37
+fixedStep chrom=chr20 start=3814800 step=100 span=100
+0.41
+0.58
+0.55
+0.41
+0.28
+0.09
+fixedStep chrom=chr20 start=3840100 step=100 span=100
+0.05
+0.15
+0.34
+0.33
+fixedStep chrom=chr20 start=3844500 step=100 span=100
+0.22
+0.35
+0.32
+0.13
+fixedStep chrom=chr20 start=3913600 step=100 span=100
+0.06
+0.18
+0.34
+0.25
+fixedStep chrom=chr20 start=3914900 step=100 span=100
+0.25
+0.23
+0.10
+fixedStep chrom=chr20 start=4031700 step=100 span=100
+0.14
+0.15
+fixedStep chrom=chr20 start=4056600 step=100 span=100
+0.10
+0.12
+0.09
+fixedStep chrom=chr20 start=4058700 step=100 span=100
+0.10
+0.26
+0.08
+fixedStep chrom=chr20 start=4102200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=4185100 step=100 span=100
+0.10
+0.18
+0.15
+0.05
+fixedStep chrom=chr20 start=4185900 step=100 span=100
+0.07
+0.15
+0.13
+0.07
+fixedStep chrom=chr20 start=4290000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=4826200 step=100 span=100
+0.07
+0.14
+0.36
+0.59
+0.67
+0.52
+fixedStep chrom=chr20 start=4827500 step=100 span=100
+0.44
+0.59
+0.48
+0.28
+0.13
+fixedStep chrom=chr20 start=5015300 step=100 span=100
+0.15
+0.16
+fixedStep chrom=chr20 start=5016000 step=100 span=100
+0.07
+0.09
+0.06
+fixedStep chrom=chr20 start=5031900 step=100 span=100
+0.17
+0.35
+0.44
+0.40
+0.08
+fixedStep chrom=chr20 start=5037100 step=100 span=100
+0.16
+0.48
+0.44
+0.22
+0.06
+fixedStep chrom=chr20 start=5452500 step=100 span=100
+0.08
+0.21
+0.27
+0.25
+0.26
+fixedStep chrom=chr20 start=5453100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=5453500 step=100 span=100
+0.13
+0.28
+0.36
+0.30
+0.32
+0.13
+fixedStep chrom=chr20 start=5471600 step=100 span=100
+0.18
+0.47
+0.43
+fixedStep chrom=chr20 start=5504200 step=100 span=100
+0.09
+0.17
+0.11
+fixedStep chrom=chr20 start=5553400 step=100 span=100
+0.20
+0.36
+0.51
+0.54
+0.35
+fixedStep chrom=chr20 start=5554000 step=100 span=100
+0.08
+0.07
+0.09
+0.37
+0.48
+0.44
+0.34
+0.13
+fixedStep chrom=chr20 start=5639400 step=100 span=100
+0.17
+0.29
+0.17
+fixedStep chrom=chr20 start=5647900 step=100 span=100
+0.06
+0.40
+0.57
+0.68
+0.63
+0.24
+fixedStep chrom=chr20 start=5648700 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=5649600 step=100 span=100
+0.06
+0.42
+0.70
+0.68
+0.56
+0.32
+0.08
+fixedStep chrom=chr20 start=5701400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=5961800 step=100 span=100
+0.09
+0.30
+0.39
+0.37
+0.28
+0.05
+fixedStep chrom=chr20 start=5962500 step=100 span=100
+0.07
+0.05
+0.27
+0.35
+0.36
+0.28
+0.11
+fixedStep chrom=chr20 start=6044500 step=100 span=100
+0.10
+0.35
+0.53
+0.66
+0.51
+0.10
+fixedStep chrom=chr20 start=6046900 step=100 span=100
+0.42
+0.66
+0.60
+0.44
+0.18
+fixedStep chrom=chr20 start=6169800 step=100 span=100
+0.11
+0.24
+0.27
+0.27
+0.15
+fixedStep chrom=chr20 start=6170400 step=100 span=100
+0.08
+0.15
+0.10
+0.23
+0.26
+0.26
+0.14
+fixedStep chrom=chr20 start=6316600 step=100 span=100
+0.07
+0.16
+0.09
+0.07
+fixedStep chrom=chr20 start=6317100 step=100 span=100
+0.07
+0.07
+0.11
+0.06
+0.06
+0.08
+0.05
+fixedStep chrom=chr20 start=6318000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=6318400 step=100 span=100
+0.09
+0.15
+0.10
+0.06
+fixedStep chrom=chr20 start=6319400 step=100 span=100
+0.10
+0.16
+0.06
+fixedStep chrom=chr20 start=6852200 step=100 span=100
+0.12
+0.34
+0.29
+0.15
+fixedStep chrom=chr20 start=6854100 step=100 span=100
+0.07
+0.16
+0.24
+0.27
+0.12
+fixedStep chrom=chr20 start=6993300 step=100 span=100
+0.06
+0.16
+0.14
+fixedStep chrom=chr20 start=6996300 step=100 span=100
+0.06
+0.09
+0.08
+fixedStep chrom=chr20 start=7115600 step=100 span=100
+0.19
+0.40
+0.56
+0.63
+0.62
+0.40
+0.05
+fixedStep chrom=chr20 start=7121300 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=7121900 step=100 span=100
+0.06
+0.05
+0.14
+0.53
+0.61
+0.55
+0.38
+0.22
+0.05
+fixedStep chrom=chr20 start=7293800 step=100 span=100
+0.16
+0.23
+fixedStep chrom=chr20 start=7294100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=7417500 step=100 span=100
+0.09
+0.26
+0.46
+0.65
+0.69
+0.45
+0.05
+fixedStep chrom=chr20 start=7418300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=7418500 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=7419100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=7419300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=7422900 step=100 span=100
+0.43
+0.67
+0.66
+0.50
+0.26
+0.08
+fixedStep chrom=chr20 start=7620200 step=100 span=100
+0.09
+0.10
+fixedStep chrom=chr20 start=8206600 step=100 span=100
+0.08
+0.06
+fixedStep chrom=chr20 start=8207000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=8207300 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=8307300 step=100 span=100
+0.09
+0.27
+0.45
+0.34
+fixedStep chrom=chr20 start=8308400 step=100 span=100
+0.27
+0.52
+0.45
+0.18
+0.05
+fixedStep chrom=chr20 start=8429100 step=100 span=100
+0.12
+0.18
+0.07
+fixedStep chrom=chr20 start=8430500 step=100 span=100
+0.10
+0.15
+0.05
+fixedStep chrom=chr20 start=8432900 step=100 span=100
+0.15
+0.36
+0.45
+0.53
+0.34
+fixedStep chrom=chr20 start=8433800 step=100 span=100
+0.35
+0.57
+0.51
+0.33
+0.12
+fixedStep chrom=chr20 start=8494300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=9015200 step=100 span=100
+0.12
+0.18
+0.23
+0.18
+fixedStep chrom=chr20 start=9015900 step=100 span=100
+0.10
+0.21
+0.20
+0.18
+0.12
+0.05
+fixedStep chrom=chr20 start=9188300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=9189100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=9671200 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=9671900 step=100 span=100
+0.10
+0.08
+fixedStep chrom=chr20 start=9747800 step=100 span=100
+0.41
+0.53
+0.46
+fixedStep chrom=chr20 start=10394300 step=100 span=100
+0.21
+0.22
+0.18
+fixedStep chrom=chr20 start=10807200 step=100 span=100
+0.05
+0.10
+fixedStep chrom=chr20 start=10807700 step=100 span=100
+0.23
+0.33
+0.12
+fixedStep chrom=chr20 start=10808300 step=100 span=100
+0.13
+0.19
+fixedStep chrom=chr20 start=10808700 step=100 span=100
+0.05
+0.17
+0.17
+0.05
+fixedStep chrom=chr20 start=11536100 step=100 span=100
+0.10
+0.25
+0.34
+0.29
+0.18
+fixedStep chrom=chr20 start=11536700 step=100 span=100
+0.14
+0.10
+0.08
+0.28
+0.30
+0.30
+0.17
+0.06
+fixedStep chrom=chr20 start=11666400 step=100 span=100
+0.13
+0.30
+0.45
+0.28
+fixedStep chrom=chr20 start=11668000 step=100 span=100
+0.19
+0.46
+0.40
+0.25
+0.06
+fixedStep chrom=chr20 start=12344300 step=100 span=100
+0.10
+0.11
+fixedStep chrom=chr20 start=12360700 step=100 span=100
+0.10
+0.07
+fixedStep chrom=chr20 start=12363300 step=100 span=100
+0.07
+0.09
+fixedStep chrom=chr20 start=12447000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=12558600 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=12756000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=12757300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=13362700 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=13471700 step=100 span=100
+0.07
+0.22
+0.17
+fixedStep chrom=chr20 start=13472900 step=100 span=100
+0.14
+0.14
+fixedStep chrom=chr20 start=13512300 step=100 span=100
+0.05
+0.24
+0.29
+0.25
+0.29
+0.39
+0.15
+fixedStep chrom=chr20 start=13706500 step=100 span=100
+0.37
+0.47
+0.44
+fixedStep chrom=chr20 start=13707100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=14298800 step=100 span=100
+0.05
+0.08
+fixedStep chrom=chr20 start=14457000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=14548000 step=100 span=100
+0.13
+0.17
+0.20
+0.17
+fixedStep chrom=chr20 start=14548500 step=100 span=100
+0.22
+0.19
+fixedStep chrom=chr20 start=14548800 step=100 span=100
+0.13
+0.15
+0.15
+0.16
+fixedStep chrom=chr20 start=14800500 step=100 span=100
+0.07
+0.13
+0.05
+fixedStep chrom=chr20 start=14846900 step=100 span=100
+0.15
+0.11
+fixedStep chrom=chr20 start=14862100 step=100 span=100
+0.10
+0.22
+0.10
+0.08
+fixedStep chrom=chr20 start=14999900 step=100 span=100
+0.05
+0.08
+0.09
+0.08
+fixedStep chrom=chr20 start=15000700 step=100 span=100
+0.07
+0.08
+0.10
+0.06
+fixedStep chrom=chr20 start=15320600 step=100 span=100
+0.19
+0.44
+0.60
+0.70
+0.56
+0.05
+fixedStep chrom=chr20 start=15321300 step=100 span=100
+0.06
+0.07
+0.07
+0.07
+0.06
+0.06
+fixedStep chrom=chr20 start=15322800 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=15323100 step=100 span=100
+0.52
+0.68
+0.66
+0.46
+0.19
+fixedStep chrom=chr20 start=15454700 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=15730700 step=100 span=100
+0.08
+0.06
+0.23
+0.29
+0.31
+0.31
+0.31
+0.25
+0.28
+0.34
+0.28
+0.25
+fixedStep chrom=chr20 start=15732000 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=16098100 step=100 span=100
+0.07
+0.09
+fixedStep chrom=chr20 start=16104800 step=100 span=100
+0.10
+0.05
+fixedStep chrom=chr20 start=16188300 step=100 span=100
+0.10
+0.23
+0.08
+fixedStep chrom=chr20 start=16189100 step=100 span=100
+0.05
+0.09
+fixedStep chrom=chr20 start=16227000 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=16227600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=16240700 step=100 span=100
+0.17
+0.34
+0.47
+0.50
+0.18
+fixedStep chrom=chr20 start=16241700 step=100 span=100
+0.36
+0.58
+0.48
+0.25
+0.06
+fixedStep chrom=chr20 start=16259300 step=100 span=100
+0.27
+0.46
+0.55
+0.47
+0.06
+fixedStep chrom=chr20 start=16259900 step=100 span=100
+0.11
+0.07
+0.11
+0.26
+0.47
+0.46
+0.18
+fixedStep chrom=chr20 start=16394700 step=100 span=100
+0.06
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=16395300 step=100 span=100
+0.07
+0.12
+0.06
+fixedStep chrom=chr20 start=16395700 step=100 span=100
+0.05
+0.08
+fixedStep chrom=chr20 start=16687400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=16987900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=17277200 step=100 span=100
+0.09
+0.15
+0.05
+fixedStep chrom=chr20 start=17278100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=17417100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=17844800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=18046800 step=100 span=100
+0.06
+0.16
+0.23
+0.27
+0.18
+fixedStep chrom=chr20 start=18047700 step=100 span=100
+0.14
+0.29
+0.21
+0.08
+fixedStep chrom=chr20 start=18111600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=18197000 step=100 span=100
+0.08
+0.19
+0.21
+fixedStep chrom=chr20 start=18198500 step=100 span=100
+0.07
+0.23
+0.17
+0.10
+fixedStep chrom=chr20 start=18209700 step=100 span=100
+0.38
+0.57
+0.58
+0.31
+fixedStep chrom=chr20 start=18210600 step=100 span=100
+0.43
+0.56
+0.50
+0.41
+0.16
+0.05
+fixedStep chrom=chr20 start=18260600 step=100 span=100
+0.08
+0.29
+0.36
+0.27
+0.12
+0.19
+0.38
+0.23
+fixedStep chrom=chr20 start=18262300 step=100 span=100
+0.65
+0.75
+0.49
+fixedStep chrom=chr20 start=18615100 step=100 span=100
+0.14
+0.14
+fixedStep chrom=chr20 start=18629300 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=18630700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=19080200 step=100 span=100
+0.07
+0.10
+0.17
+0.20
+0.21
+0.09
+0.06
+0.05
+fixedStep chrom=chr20 start=19081100 step=100 span=100
+0.12
+0.21
+0.19
+0.17
+0.08
+fixedStep chrom=chr20 start=19123200 step=100 span=100
+0.07
+0.20
+0.28
+0.26
+0.10
+fixedStep chrom=chr20 start=19124000 step=100 span=100
+0.09
+0.30
+0.31
+0.23
+0.11
+fixedStep chrom=chr20 start=19188900 step=100 span=100
+0.12
+0.23
+0.29
+0.30
+0.21
+fixedStep chrom=chr20 start=19189700 step=100 span=100
+0.07
+0.29
+0.27
+0.26
+0.14
+0.06
+fixedStep chrom=chr20 start=20356300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=20357000 step=100 span=100
+0.05
+0.15
+fixedStep chrom=chr20 start=21021500 step=100 span=100
+0.08
+0.17
+0.30
+0.37
+0.38
+0.19
+0.05
+0.06
+fixedStep chrom=chr20 start=21022400 step=100 span=100
+0.17
+0.36
+0.29
+0.30
+0.24
+fixedStep chrom=chr20 start=21176900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=21178600 step=100 span=100
+0.09
+0.05
+fixedStep chrom=chr20 start=21304900 step=100 span=100
+0.05
+0.13
+0.25
+0.39
+0.42
+0.28
+0.14
+0.21
+0.24
+0.19
+0.18
+0.13
+0.11
+0.07
+0.15
+0.20
+0.25
+0.24
+0.16
+0.08
+fixedStep chrom=chr20 start=21307000 step=100 span=100
+0.10
+0.15
+0.16
+0.19
+0.23
+0.26
+0.24
+0.26
+0.29
+0.25
+0.21
+0.29
+0.44
+0.40
+0.28
+0.11
+fixedStep chrom=chr20 start=21868700 step=100 span=100
+0.08
+0.14
+0.20
+0.23
+0.22
+fixedStep chrom=chr20 start=21869300 step=100 span=100
+0.17
+0.17
+0.06
+0.18
+0.23
+0.22
+0.19
+0.07
+fixedStep chrom=chr20 start=21911700 step=100 span=100
+0.05
+0.07
+0.05
+0.06
+fixedStep chrom=chr20 start=21913600 step=100 span=100
+0.07
+0.08
+fixedStep chrom=chr20 start=22674100 step=100 span=100
+0.09
+0.20
+0.31
+0.37
+0.34
+0.18
+fixedStep chrom=chr20 start=22674800 step=100 span=100
+0.05
+0.07
+0.25
+0.35
+0.30
+0.24
+0.15
+fixedStep chrom=chr20 start=23122700 step=100 span=100
+0.21
+0.22
+fixedStep chrom=chr20 start=23702700 step=100 span=100
+0.27
+0.29
+0.20
+fixedStep chrom=chr20 start=23718500 step=100 span=100
+0.09
+0.62
+0.68
+0.50
+fixedStep chrom=chr20 start=23727700 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=23765300 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=23776400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=23793800 step=100 span=100
+0.14
+0.27
+0.30
+0.07
+fixedStep chrom=chr20 start=23794300 step=100 span=100
+0.05
+0.25
+0.26
+0.14
+fixedStep chrom=chr20 start=23803100 step=100 span=100
+0.43
+0.42
+0.07
+fixedStep chrom=chr20 start=24407700 step=100 span=100
+0.09
+0.26
+0.41
+0.19
+fixedStep chrom=chr20 start=24408900 step=100 span=100
+0.14
+0.29
+0.24
+0.11
+0.05
+fixedStep chrom=chr20 start=24437200 step=100 span=100
+0.06
+0.24
+0.13
+0.07
+fixedStep chrom=chr20 start=24445300 step=100 span=100
+0.07
+0.15
+0.17
+fixedStep chrom=chr20 start=24922600 step=100 span=100
+0.10
+0.18
+0.27
+0.31
+0.17
+0.25
+0.25
+0.23
+0.24
+0.23
+0.20
+0.08
+0.28
+0.35
+0.26
+0.14
+fixedStep chrom=chr20 start=25332800 step=100 span=100
+0.05
+0.10
+0.18
+0.20
+0.19
+0.10
+fixedStep chrom=chr20 start=25468400 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=25602100 step=100 span=100
+0.15
+0.39
+0.49
+0.44
+0.19
+fixedStep chrom=chr20 start=25602700 step=100 span=100
+0.13
+fixedStep chrom=chr20 start=25602900 step=100 span=100
+0.08
+0.37
+0.42
+0.37
+0.18
+fixedStep chrom=chr20 start=25715700 step=100 span=100
+0.16
+0.18
+0.06
+fixedStep chrom=chr20 start=25727100 step=100 span=100
+0.06
+0.14
+0.12
+fixedStep chrom=chr20 start=25778800 step=100 span=100
+0.07
+0.06
+0.07
+0.17
+0.52
+0.60
+0.28
+fixedStep chrom=chr20 start=25783000 step=100 span=100
+0.17
+0.22
+fixedStep chrom=chr20 start=25786000 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=25801900 step=100 span=100
+0.09
+0.10
+fixedStep chrom=chr20 start=25812100 step=100 span=100
+0.08
+0.08
+fixedStep chrom=chr20 start=25822200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=25844100 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=25845200 step=100 span=100
+0.31
+0.51
+0.43
+0.08
+fixedStep chrom=chr20 start=25855800 step=100 span=100
+0.07
+0.09
+fixedStep chrom=chr20 start=25862700 step=100 span=100
+0.13
+0.17
+0.14
+fixedStep chrom=chr20 start=25869500 step=100 span=100
+0.08
+0.11
+0.08
+fixedStep chrom=chr20 start=25884500 step=100 span=100
+0.09
+0.28
+0.39
+0.15
+fixedStep chrom=chr20 start=25885400 step=100 span=100
+0.23
+0.16
+fixedStep chrom=chr20 start=25910900 step=100 span=100
+0.08
+0.36
+0.34
+0.06
+fixedStep chrom=chr20 start=25911900 step=100 span=100
+0.11
+0.12
+fixedStep chrom=chr20 start=26026000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26053800 step=100 span=100
+0.12
+0.09
+0.05
+fixedStep chrom=chr20 start=26069800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26072700 step=100 span=100
+0.22
+0.16
+fixedStep chrom=chr20 start=26076500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26076800 step=100 span=100
+0.20
+0.06
+fixedStep chrom=chr20 start=26078300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26079100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26079300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26080100 step=100 span=100
+0.09
+0.05
+0.08
+fixedStep chrom=chr20 start=26080800 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=26081800 step=100 span=100
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=26082800 step=100 span=100
+0.08
+0.06
+0.08
+0.07
+0.05
+fixedStep chrom=chr20 start=26083500 step=100 span=100
+0.08
+0.06
+fixedStep chrom=chr20 start=26083900 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=26084400 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=26111700 step=100 span=100
+0.13
+0.53
+0.69
+0.63
+0.17
+fixedStep chrom=chr20 start=26112300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26112900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26113600 step=100 span=100
+0.26
+0.57
+0.63
+0.53
+0.33
+0.12
+fixedStep chrom=chr20 start=26264600 step=100 span=100
+0.15
+0.60
+0.65
+0.38
+fixedStep chrom=chr20 start=26279200 step=100 span=100
+0.05
+0.13
+0.11
+0.26
+0.49
+0.63
+0.66
+0.43
+0.20
+0.32
+0.33
+0.20
+0.13
+0.17
+0.16
+0.11
+0.10
+0.10
+fixedStep chrom=chr20 start=26281100 step=100 span=100
+0.30
+0.63
+0.63
+0.51
+0.32
+0.07
+fixedStep chrom=chr20 start=26294100 step=100 span=100
+0.13
+0.36
+0.42
+0.39
+0.16
+fixedStep chrom=chr20 start=26294900 step=100 span=100
+0.16
+0.47
+0.43
+0.39
+0.29
+0.07
+fixedStep chrom=chr20 start=26311900 step=100 span=100
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=26312400 step=100 span=100
+0.05
+0.07
+0.06
+fixedStep chrom=chr20 start=26316500 step=100 span=100
+0.05
+0.12
+0.24
+0.30
+0.22
+fixedStep chrom=chr20 start=26317100 step=100 span=100
+0.23
+0.27
+0.24
+0.22
+0.25
+0.24
+0.22
+0.23
+0.21
+0.25
+0.28
+0.30
+0.39
+0.30
+0.38
+0.58
+0.47
+0.15
+0.11
+0.33
+0.30
+0.25
+0.23
+0.18
+0.20
+0.20
+0.22
+0.31
+0.28
+0.27
+0.28
+0.14
+0.15
+0.35
+0.36
+0.37
+0.29
+0.28
+0.09
+0.08
+0.16
+0.27
+0.37
+0.28
+0.21
+0.17
+0.13
+0.12
+0.21
+fixedStep chrom=chr20 start=26322100 step=100 span=100
+0.20
+0.30
+0.21
+0.11
+fixedStep chrom=chr20 start=26323700 step=100 span=100
+0.06
+0.14
+fixedStep chrom=chr20 start=26330100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26354600 step=100 span=100
+0.09
+0.31
+0.50
+0.45
+0.16
+fixedStep chrom=chr20 start=26361500 step=100 span=100
+0.09
+0.21
+0.34
+0.28
+fixedStep chrom=chr20 start=26362800 step=100 span=100
+0.16
+0.45
+0.36
+0.19
+0.05
+fixedStep chrom=chr20 start=26363800 step=100 span=100
+0.06
+0.06
+0.06
+0.05
+fixedStep chrom=chr20 start=26365600 step=100 span=100
+0.09
+0.15
+fixedStep chrom=chr20 start=26366000 step=100 span=100
+0.16
+0.36
+0.51
+0.45
+0.21
+0.08
+0.08
+fixedStep chrom=chr20 start=26368700 step=100 span=100
+0.22
+0.24
+0.08
+0.08
+0.17
+0.11
+fixedStep chrom=chr20 start=26369400 step=100 span=100
+0.05
+0.16
+fixedStep chrom=chr20 start=26377700 step=100 span=100
+0.09
+0.42
+0.40
+0.19
+0.06
+fixedStep chrom=chr20 start=26378300 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=26378700 step=100 span=100
+0.53
+0.69
+0.64
+0.51
+0.33
+0.15
+0.05
+0.05
+fixedStep chrom=chr20 start=26380100 step=100 span=100
+0.05
+0.07
+0.06
+0.06
+0.07
+0.24
+0.36
+0.35
+0.19
+0.12
+0.18
+0.15
+0.12
+0.06
+0.08
+0.13
+0.10
+0.15
+0.26
+0.21
+0.11
+fixedStep chrom=chr20 start=26382600 step=100 span=100
+0.13
+0.21
+0.21
+0.17
+0.11
+0.07
+0.05
+fixedStep chrom=chr20 start=26383900 step=100 span=100
+0.06
+0.10
+0.17
+0.27
+0.26
+0.21
+0.57
+0.47
+0.13
+0.06
+0.09
+fixedStep chrom=chr20 start=26385200 step=100 span=100
+0.06
+0.25
+0.40
+0.50
+0.39
+fixedStep chrom=chr20 start=26385800 step=100 span=100
+0.18
+0.17
+fixedStep chrom=chr20 start=26386200 step=100 span=100
+0.13
+fixedStep chrom=chr20 start=26436700 step=100 span=100
+0.05
+0.13
+fixedStep chrom=chr20 start=26437200 step=100 span=100
+0.30
+0.10
+0.05
+0.05
+0.07
+fixedStep chrom=chr20 start=26438400 step=100 span=100
+0.06
+0.05
+0.07
+0.85
+0.88
+0.87
+0.58
+0.19
+0.08
+fixedStep chrom=chr20 start=26439900 step=100 span=100
+0.79
+0.87
+0.86
+fixedStep chrom=chr20 start=26440700 step=100 span=100
+0.10
+0.27
+0.23
+0.15
+0.13
+0.10
+0.10
+0.20
+0.49
+0.57
+0.35
+0.07
+0.06
+0.19
+0.27
+0.26
+0.19
+0.08
+fixedStep chrom=chr20 start=26443300 step=100 span=100
+0.12
+0.42
+0.61
+0.40
+fixedStep chrom=chr20 start=26443900 step=100 span=100
+0.07
+0.12
+0.15
+0.12
+0.06
+fixedStep chrom=chr20 start=26444500 step=100 span=100
+0.05
+0.05
+0.05
+0.30
+0.24
+0.05
+0.07
+0.07
+0.09
+fixedStep chrom=chr20 start=26445700 step=100 span=100
+0.11
+0.20
+0.14
+0.09
+fixedStep chrom=chr20 start=26446200 step=100 span=100
+0.09
+0.15
+0.22
+0.33
+0.30
+0.20
+0.10
+0.14
+0.12
+0.15
+0.20
+0.11
+0.22
+0.18
+0.29
+0.35
+0.34
+0.24
+0.05
+fixedStep chrom=chr20 start=26448300 step=100 span=100
+0.07
+0.08
+0.33
+fixedStep chrom=chr20 start=26448700 step=100 span=100
+0.24
+0.22
+0.06
+0.18
+0.19
+fixedStep chrom=chr20 start=26449300 step=100 span=100
+0.61
+0.34
+0.43
+0.41
+0.15
+fixedStep chrom=chr20 start=26449900 step=100 span=100
+0.07
+0.10
+0.35
+0.37
+0.43
+0.44
+0.07
+fixedStep chrom=chr20 start=26450900 step=100 span=100
+0.21
+0.32
+0.41
+0.28
+0.26
+0.09
+fixedStep chrom=chr20 start=26451700 step=100 span=100
+0.10
+0.24
+0.32
+0.33
+0.35
+0.22
+0.12
+0.17
+0.19
+0.12
+0.24
+0.20
+0.20
+0.14
+0.26
+0.30
+0.07
+0.29
+0.26
+0.35
+0.07
+0.09
+0.24
+0.26
+0.18
+fixedStep chrom=chr20 start=26454300 step=100 span=100
+0.08
+0.06
+0.07
+0.23
+0.12
+0.13
+0.15
+0.15
+0.33
+0.27
+0.11
+0.12
+0.06
+fixedStep chrom=chr20 start=26455700 step=100 span=100
+0.05
+0.21
+0.39
+0.39
+0.27
+0.33
+0.34
+0.24
+0.14
+0.15
+0.35
+0.48
+0.49
+0.49
+0.40
+0.34
+0.22
+0.19
+0.28
+0.52
+0.65
+0.66
+0.54
+0.34
+0.06
+fixedStep chrom=chr20 start=26458400 step=100 span=100
+0.17
+0.32
+0.43
+0.28
+0.12
+0.06
+fixedStep chrom=chr20 start=26459300 step=100 span=100
+0.54
+0.66
+0.66
+0.64
+0.45
+0.09
+0.16
+fixedStep chrom=chr20 start=26460100 step=100 span=100
+0.29
+0.27
+0.12
+fixedStep chrom=chr20 start=26460900 step=100 span=100
+0.14
+0.13
+0.11
+fixedStep chrom=chr20 start=26461600 step=100 span=100
+0.13
+0.21
+0.24
+0.17
+0.13
+0.08
+0.07
+0.10
+fixedStep chrom=chr20 start=26462500 step=100 span=100
+0.05
+0.15
+0.24
+0.15
+0.05
+fixedStep chrom=chr20 start=26463100 step=100 span=100
+0.09
+0.13
+0.09
+0.12
+0.11
+0.11
+fixedStep chrom=chr20 start=26463800 step=100 span=100
+0.18
+0.17
+0.13
+0.14
+0.29
+0.33
+0.42
+0.27
+0.08
+0.21
+0.12
+fixedStep chrom=chr20 start=26465300 step=100 span=100
+0.19
+0.36
+0.39
+0.16
+0.22
+0.27
+0.26
+0.23
+0.28
+0.28
+0.28
+0.38
+0.33
+0.18
+0.36
+0.46
+0.50
+0.44
+0.35
+0.31
+0.19
+fixedStep chrom=chr20 start=26467500 step=100 span=100
+0.41
+0.49
+0.53
+0.33
+0.18
+0.27
+0.34
+0.34
+0.41
+0.49
+0.52
+0.24
+0.21
+0.34
+0.23
+0.27
+0.27
+0.49
+0.60
+0.56
+0.40
+0.23
+0.38
+0.48
+0.35
+0.45
+0.52
+0.54
+0.50
+0.37
+0.31
+0.17
+0.17
+0.39
+0.45
+0.51
+0.51
+0.41
+0.16
+0.11
+0.36
+0.37
+0.24
+fixedStep chrom=chr20 start=26472000 step=100 span=100
+0.06
+0.06
+0.19
+0.24
+0.25
+0.29
+0.33
+0.25
+0.10
+fixedStep chrom=chr20 start=26473000 step=100 span=100
+0.10
+0.29
+0.34
+0.40
+0.47
+0.42
+0.37
+0.12
+0.41
+0.42
+0.29
+0.35
+0.52
+0.54
+0.37
+0.12
+0.31
+0.34
+0.29
+0.24
+0.36
+0.31
+0.13
+fixedStep chrom=chr20 start=26475400 step=100 span=100
+0.09
+0.21
+0.17
+fixedStep chrom=chr20 start=26476100 step=100 span=100
+0.63
+0.84
+0.83
+0.82
+0.82
+0.82
+0.77
+0.44
+0.06
+0.66
+0.66
+0.57
+0.18
+fixedStep chrom=chr20 start=26478100 step=100 span=100
+0.07
+0.07
+0.45
+0.47
+0.09
+fixedStep chrom=chr20 start=26478700 step=100 span=100
+0.08
+0.12
+0.09
+0.14
+0.17
+0.24
+0.26
+0.26
+0.18
+0.34
+0.33
+0.28
+0.22
+0.31
+0.24
+0.22
+0.32
+0.27
+0.20
+0.12
+0.07
+0.20
+0.18
+0.23
+0.27
+0.45
+0.34
+0.24
+0.73
+0.78
+0.79
+0.75
+0.73
+0.76
+0.74
+0.64
+0.53
+0.65
+0.75
+0.76
+0.59
+fixedStep chrom=chr20 start=26482900 step=100 span=100
+0.05
+0.08
+0.06
+0.10
+0.13
+0.13
+0.08
+0.24
+0.25
+0.17
+0.08
+0.23
+0.32
+0.33
+0.25
+0.09
+0.06
+0.06
+0.06
+0.05
+fixedStep chrom=chr20 start=26485100 step=100 span=100
+0.41
+0.52
+0.52
+fixedStep chrom=chr20 start=26485500 step=100 span=100
+0.09
+0.08
+0.17
+0.19
+0.05
+0.19
+0.39
+0.46
+0.25
+0.09
+0.10
+0.06
+fixedStep chrom=chr20 start=26486800 step=100 span=100
+0.09
+0.11
+fixedStep chrom=chr20 start=26487200 step=100 span=100
+0.14
+0.07
+0.10
+0.08
+0.20
+0.18
+0.16
+0.12
+0.19
+0.18
+0.09
+fixedStep chrom=chr20 start=26488400 step=100 span=100
+0.12
+0.36
+0.50
+0.59
+0.53
+0.35
+0.21
+0.41
+0.35
+0.29
+0.36
+0.43
+0.37
+0.42
+0.50
+0.51
+0.42
+0.21
+fixedStep chrom=chr20 start=26490300 step=100 span=100
+0.13
+0.23
+0.35
+0.33
+0.21
+0.13
+0.05
+fixedStep chrom=chr20 start=26491500 step=100 span=100
+0.68
+0.68
+0.66
+0.49
+0.54
+fixedStep chrom=chr20 start=26492200 step=100 span=100
+0.22
+0.32
+0.36
+0.22
+fixedStep chrom=chr20 start=26492700 step=100 span=100
+0.05
+0.11
+0.36
+0.50
+0.53
+0.53
+0.32
+fixedStep chrom=chr20 start=26493600 step=100 span=100
+0.13
+0.27
+0.36
+0.37
+0.39
+fixedStep chrom=chr20 start=26494400 step=100 span=100
+0.31
+0.37
+0.31
+fixedStep chrom=chr20 start=26495000 step=100 span=100
+0.45
+0.59
+0.37
+0.50
+0.38
+fixedStep chrom=chr20 start=26495800 step=100 span=100
+0.39
+0.49
+0.41
+fixedStep chrom=chr20 start=26496200 step=100 span=100
+0.05
+0.06
+0.11
+0.43
+0.45
+0.48
+0.45
+0.33
+0.07
+0.07
+0.24
+0.43
+0.46
+0.38
+0.20
+0.18
+0.15
+0.15
+0.05
+fixedStep chrom=chr20 start=26498200 step=100 span=100
+0.36
+fixedStep chrom=chr20 start=26498400 step=100 span=100
+0.09
+0.40
+0.50
+0.56
+0.34
+0.19
+0.10
+0.09
+0.11
+0.30
+0.51
+0.52
+0.41
+0.45
+0.47
+0.37
+0.21
+0.12
+0.14
+0.35
+0.32
+0.35
+0.34
+0.28
+0.07
+0.15
+0.11
+fixedStep chrom=chr20 start=26501200 step=100 span=100
+0.12
+0.15
+0.06
+fixedStep chrom=chr20 start=26501700 step=100 span=100
+0.08
+0.13
+0.16
+0.16
+fixedStep chrom=chr20 start=26502500 step=100 span=100
+0.27
+0.26
+0.25
+0.38
+0.44
+0.29
+0.18
+0.09
+0.06
+0.23
+0.28
+0.34
+0.41
+0.38
+0.27
+0.15
+0.20
+0.17
+0.16
+0.27
+0.56
+0.50
+0.34
+0.05
+0.18
+0.31
+0.18
+0.05
+0.17
+0.30
+0.29
+0.28
+0.15
+fixedStep chrom=chr20 start=26506200 step=100 span=100
+0.06
+0.38
+0.39
+0.34
+0.15
+0.07
+0.22
+0.32
+0.36
+0.34
+0.38
+0.47
+0.45
+0.24
+0.16
+0.28
+0.38
+0.51
+0.52
+0.55
+0.62
+0.46
+0.35
+0.19
+0.28
+0.44
+0.47
+0.48
+0.41
+0.28
+0.16
+0.11
+0.13
+0.31
+0.39
+0.34
+0.06
+fixedStep chrom=chr20 start=26510200 step=100 span=100
+0.11
+0.14
+0.07
+fixedStep chrom=chr20 start=26511100 step=100 span=100
+0.75
+0.82
+0.84
+0.81
+0.21
+fixedStep chrom=chr20 start=26512200 step=100 span=100
+0.08
+0.09
+0.11
+0.09
+0.07
+fixedStep chrom=chr20 start=26513700 step=100 span=100
+0.13
+0.34
+0.05
+fixedStep chrom=chr20 start=26514100 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26514800 step=100 span=100
+0.11
+0.61
+0.75
+0.74
+0.63
+fixedStep chrom=chr20 start=26515700 step=100 span=100
+0.09
+0.12
+0.08
+fixedStep chrom=chr20 start=26516800 step=100 span=100
+0.06
+0.26
+0.16
+0.09
+0.32
+0.33
+0.41
+0.52
+0.51
+0.30
+0.10
+0.15
+0.18
+0.12
+fixedStep chrom=chr20 start=26518600 step=100 span=100
+0.08
+0.34
+0.41
+0.38
+0.13
+fixedStep chrom=chr20 start=26519200 step=100 span=100
+0.10
+0.61
+0.25
+0.18
+0.37
+0.37
+0.36
+0.68
+0.76
+0.74
+0.60
+0.10
+0.05
+fixedStep chrom=chr20 start=26520800 step=100 span=100
+0.11
+0.20
+0.07
+fixedStep chrom=chr20 start=26521300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26521500 step=100 span=100
+0.08
+0.15
+0.15
+0.06
+fixedStep chrom=chr20 start=26524800 step=100 span=100
+0.28
+0.34
+0.28
+0.25
+0.14
+0.27
+0.27
+fixedStep chrom=chr20 start=26525900 step=100 span=100
+0.06
+0.12
+fixedStep chrom=chr20 start=26526300 step=100 span=100
+0.25
+fixedStep chrom=chr20 start=26526600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26526900 step=100 span=100
+0.22
+0.23
+fixedStep chrom=chr20 start=26527300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26527700 step=100 span=100
+0.05
+0.09
+fixedStep chrom=chr20 start=26528200 step=100 span=100
+0.09
+0.12
+0.09
+fixedStep chrom=chr20 start=26528600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26529600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26530400 step=100 span=100
+0.10
+0.11
+0.13
+fixedStep chrom=chr20 start=26531100 step=100 span=100
+0.08
+0.08
+fixedStep chrom=chr20 start=26534600 step=100 span=100
+0.16
+0.11
+fixedStep chrom=chr20 start=26536000 step=100 span=100
+0.06
+0.07
+0.07
+fixedStep chrom=chr20 start=26536800 step=100 span=100
+0.07
+0.15
+0.18
+fixedStep chrom=chr20 start=26537600 step=100 span=100
+0.09
+0.09
+0.06
+fixedStep chrom=chr20 start=26538000 step=100 span=100
+0.06
+0.10
+0.12
+fixedStep chrom=chr20 start=26538400 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=26538700 step=100 span=100
+0.06
+0.12
+0.17
+0.23
+0.08
+fixedStep chrom=chr20 start=26540500 step=100 span=100
+0.05
+0.08
+0.08
+0.06
+0.12
+0.13
+fixedStep chrom=chr20 start=26541300 step=100 span=100
+0.23
+0.40
+0.47
+0.25
+fixedStep chrom=chr20 start=26542200 step=100 span=100
+0.06
+0.17
+0.22
+0.16
+fixedStep chrom=chr20 start=26542700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26544600 step=100 span=100
+0.53
+0.63
+0.64
+0.47
+0.20
+0.17
+0.32
+0.35
+0.49
+0.43
+0.37
+0.38
+0.26
+0.13
+fixedStep chrom=chr20 start=26546500 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26547300 step=100 span=100
+0.09
+0.14
+0.16
+0.17
+0.17
+fixedStep chrom=chr20 start=26548300 step=100 span=100
+0.14
+0.12
+fixedStep chrom=chr20 start=26548600 step=100 span=100
+0.18
+0.12
+0.12
+fixedStep chrom=chr20 start=26549000 step=100 span=100
+0.16
+0.15
+0.12
+fixedStep chrom=chr20 start=26549500 step=100 span=100
+0.09
+0.11
+0.09
+0.19
+0.24
+0.17
+0.08
+fixedStep chrom=chr20 start=26550300 step=100 span=100
+0.12
+0.14
+0.14
+0.28
+0.26
+fixedStep chrom=chr20 start=26551300 step=100 span=100
+0.17
+0.15
+0.09
+fixedStep chrom=chr20 start=26552200 step=100 span=100
+0.07
+0.14
+0.07
+fixedStep chrom=chr20 start=26553200 step=100 span=100
+0.06
+0.81
+0.89
+0.88
+0.85
+0.14
+0.17
+0.16
+0.09
+fixedStep chrom=chr20 start=26554600 step=100 span=100
+0.24
+0.58
+0.69
+0.64
+0.40
+fixedStep chrom=chr20 start=26555200 step=100 span=100
+0.05
+0.09
+0.15
+0.07
+fixedStep chrom=chr20 start=26556000 step=100 span=100
+0.05
+0.05
+0.25
+0.27
+0.06
+fixedStep chrom=chr20 start=26556700 step=100 span=100
+0.06
+0.14
+0.35
+0.43
+0.58
+0.55
+0.25
+fixedStep chrom=chr20 start=26557500 step=100 span=100
+0.13
+0.16
+0.19
+0.18
+0.22
+0.26
+0.23
+0.18
+fixedStep chrom=chr20 start=26558400 step=100 span=100
+0.12
+0.21
+0.20
+0.09
+0.15
+0.22
+0.24
+0.26
+0.18
+0.06
+fixedStep chrom=chr20 start=26559700 step=100 span=100
+0.14
+0.15
+fixedStep chrom=chr20 start=26560200 step=100 span=100
+0.10
+0.10
+0.05
+0.08
+0.18
+0.25
+0.22
+0.08
+0.07
+0.10
+fixedStep chrom=chr20 start=26562200 step=100 span=100
+0.05
+0.15
+0.28
+0.34
+0.30
+fixedStep chrom=chr20 start=26562800 step=100 span=100
+0.41
+0.08
+0.12
+0.14
+fixedStep chrom=chr20 start=26564500 step=100 span=100
+0.06
+0.73
+0.84
+0.84
+0.05
+fixedStep chrom=chr20 start=26565200 step=100 span=100
+0.12
+0.10
+0.08
+fixedStep chrom=chr20 start=26565900 step=100 span=100
+0.06
+0.10
+0.09
+fixedStep chrom=chr20 start=26566700 step=100 span=100
+0.07
+0.11
+0.07
+fixedStep chrom=chr20 start=26568100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26568300 step=100 span=100
+0.20
+0.43
+0.56
+0.61
+0.62
+0.53
+fixedStep chrom=chr20 start=26569400 step=100 span=100
+0.07
+0.08
+0.07
+fixedStep chrom=chr20 start=26569900 step=100 span=100
+0.41
+0.33
+0.14
+0.15
+0.19
+0.13
+fixedStep chrom=chr20 start=26570600 step=100 span=100
+0.77
+0.81
+0.78
+0.69
+0.34
+0.05
+0.12
+0.10
+fixedStep chrom=chr20 start=26572400 step=100 span=100
+0.09
+0.15
+0.18
+0.11
+fixedStep chrom=chr20 start=26573300 step=100 span=100
+0.29
+0.31
+0.25
+0.34
+0.11
+fixedStep chrom=chr20 start=26574000 step=100 span=100
+0.12
+0.11
+fixedStep chrom=chr20 start=26575400 step=100 span=100
+0.57
+0.70
+0.70
+0.28
+fixedStep chrom=chr20 start=26576700 step=100 span=100
+0.16
+0.21
+0.24
+0.68
+0.70
+0.55
+0.13
+0.05
+0.10
+0.10
+fixedStep chrom=chr20 start=26578100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26578300 step=100 span=100
+0.18
+0.73
+0.78
+0.77
+0.70
+0.23
+0.09
+0.18
+0.15
+0.14
+0.05
+fixedStep chrom=chr20 start=26579600 step=100 span=100
+0.07
+0.10
+0.10
+0.36
+0.38
+0.31
+0.28
+0.07
+0.49
+0.49
+fixedStep chrom=chr20 start=26580700 step=100 span=100
+0.25
+0.24
+fixedStep chrom=chr20 start=26581600 step=100 span=100
+0.05
+0.39
+0.41
+0.05
+fixedStep chrom=chr20 start=26582200 step=100 span=100
+0.11
+0.11
+0.07
+0.08
+0.11
+0.08
+0.06
+0.21
+0.18
+0.19
+0.36
+0.59
+0.32
+0.10
+0.20
+0.29
+0.24
+0.17
+0.18
+0.12
+0.06
+0.06
+0.09
+0.08
+fixedStep chrom=chr20 start=26584900 step=100 span=100
+0.10
+0.09
+fixedStep chrom=chr20 start=26585200 step=100 span=100
+0.33
+0.36
+0.05
+fixedStep chrom=chr20 start=26586100 step=100 span=100
+0.23
+0.29
+0.28
+0.23
+0.38
+0.43
+0.53
+0.56
+0.38
+0.13
+0.35
+0.44
+0.42
+0.39
+0.30
+0.28
+0.46
+0.54
+0.35
+0.25
+0.68
+0.72
+0.66
+0.38
+0.39
+0.43
+0.42
+0.50
+0.56
+0.44
+0.59
+0.56
+fixedStep chrom=chr20 start=26589400 step=100 span=100
+0.06
+0.09
+0.31
+0.16
+0.25
+0.59
+0.56
+0.36
+0.24
+0.44
+0.44
+0.58
+0.49
+0.14
+fixedStep chrom=chr20 start=26596300 step=100 span=100
+0.24
+0.57
+0.69
+0.68
+0.53
+0.41
+0.48
+0.56
+0.46
+0.28
+0.18
+0.29
+0.36
+0.33
+0.29
+0.21
+0.10
+0.07
+0.17
+0.25
+0.05
+fixedStep chrom=chr20 start=26598600 step=100 span=100
+0.12
+0.36
+0.40
+0.06
+0.16
+0.10
+0.05
+0.06
+fixedStep chrom=chr20 start=26599900 step=100 span=100
+0.36
+0.21
+fixedStep chrom=chr20 start=26600600 step=100 span=100
+0.20
+0.60
+0.70
+0.69
+0.52
+0.17
+fixedStep chrom=chr20 start=26601400 step=100 span=100
+0.05
+0.07
+0.18
+0.46
+0.54
+0.42
+0.17
+0.19
+0.16
+0.15
+0.30
+0.45
+0.46
+0.22
+0.16
+0.34
+0.41
+0.30
+0.17
+0.23
+0.33
+0.23
+0.30
+0.35
+0.42
+0.39
+0.41
+0.31
+0.22
+0.23
+0.41
+0.47
+0.47
+0.41
+0.37
+0.45
+0.48
+0.36
+0.31
+0.41
+0.54
+0.55
+0.47
+0.50
+0.48
+0.41
+0.44
+0.56
+0.55
+0.51
+0.51
+0.50
+0.45
+0.33
+0.41
+0.44
+0.43
+0.39
+0.43
+0.40
+0.32
+0.26
+0.33
+0.32
+0.24
+0.19
+0.07
+fixedStep chrom=chr20 start=26610000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26610500 step=100 span=100
+0.06
+0.57
+0.59
+0.13
+fixedStep chrom=chr20 start=26611500 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=26611700 step=100 span=100
+0.08
+0.10
+0.11
+0.19
+0.17
+0.11
+fixedStep chrom=chr20 start=26612600 step=100 span=100
+0.13
+0.50
+0.49
+fixedStep chrom=chr20 start=26614200 step=100 span=100
+0.29
+0.61
+0.65
+0.56
+fixedStep chrom=chr20 start=26614900 step=100 span=100
+0.57
+0.25
+fixedStep chrom=chr20 start=26616500 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=26618900 step=100 span=100
+0.05
+0.08
+fixedStep chrom=chr20 start=26619800 step=100 span=100
+0.07
+0.74
+0.47
+0.15
+fixedStep chrom=chr20 start=26620600 step=100 span=100
+0.12
+0.05
+fixedStep chrom=chr20 start=26621500 step=100 span=100
+0.12
+0.72
+0.82
+0.21
+fixedStep chrom=chr20 start=26625600 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=26626000 step=100 span=100
+0.10
+0.13
+0.16
+fixedStep chrom=chr20 start=26629100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26629800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26633000 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=26635900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26639100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26639500 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=26646700 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26648200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26653500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26654800 step=100 span=100
+0.05
+0.08
+0.11
+fixedStep chrom=chr20 start=26655800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26663600 step=100 span=100
+0.20
+fixedStep chrom=chr20 start=26668800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26676900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26677500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26679100 step=100 span=100
+0.08
+0.08
+0.11
+fixedStep chrom=chr20 start=26681900 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=26683800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26684500 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=26692300 step=100 span=100
+0.05
+0.09
+0.14
+0.08
+fixedStep chrom=chr20 start=26695000 step=100 span=100
+0.06
+0.07
+0.05
+fixedStep chrom=chr20 start=26696600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26697500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26709000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26710600 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=26710900 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=26712600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26719500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26719800 step=100 span=100
+0.05
+0.08
+0.07
+fixedStep chrom=chr20 start=26721400 step=100 span=100
+0.06
+0.10
+0.08
+0.05
+fixedStep chrom=chr20 start=26722600 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=26726700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26737800 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=26745700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26756500 step=100 span=100
+0.05
+0.06
+0.07
+0.06
+0.05
+fixedStep chrom=chr20 start=26760600 step=100 span=100
+0.06
+0.09
+0.08
+fixedStep chrom=chr20 start=26766700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26776400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26777300 step=100 span=100
+0.07
+0.07
+0.06
+fixedStep chrom=chr20 start=26780000 step=100 span=100
+0.05
+0.05
+0.09
+0.11
+0.05
+fixedStep chrom=chr20 start=26780600 step=100 span=100
+0.07
+0.24
+0.12
+fixedStep chrom=chr20 start=26781000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=26782200 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26787000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26801100 step=100 span=100
+0.05
+0.14
+0.15
+0.08
+fixedStep chrom=chr20 start=26802500 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=26803400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26805800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26811700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26814700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26820100 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26820800 step=100 span=100
+0.05
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=26821400 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26828800 step=100 span=100
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=26829400 step=100 span=100
+0.08
+0.15
+0.11
+fixedStep chrom=chr20 start=26833300 step=100 span=100
+0.06
+0.07
+0.07
+fixedStep chrom=chr20 start=26834100 step=100 span=100
+0.05
+0.12
+0.13
+0.07
+0.05
+fixedStep chrom=chr20 start=26840200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26840600 step=100 span=100
+0.06
+0.05
+0.06
+0.07
+fixedStep chrom=chr20 start=26842600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26842900 step=100 span=100
+0.08
+0.08
+0.07
+0.05
+fixedStep chrom=chr20 start=26844000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26846300 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=26850800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26852300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26854500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26856100 step=100 span=100
+0.06
+0.07
+0.05
+fixedStep chrom=chr20 start=26858000 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=26861500 step=100 span=100
+0.05
+0.08
+fixedStep chrom=chr20 start=26863800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26865900 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=26866700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26868200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26868400 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26871400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26878600 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26880100 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=26881900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26883200 step=100 span=100
+0.08
+0.09
+0.06
+0.08
+fixedStep chrom=chr20 start=26888700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=26889000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26891000 step=100 span=100
+0.09
+0.06
+fixedStep chrom=chr20 start=26896900 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=26898000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26902700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26906500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26908600 step=100 span=100
+0.08
+0.09
+0.05
+fixedStep chrom=chr20 start=26917400 step=100 span=100
+0.07
+0.13
+0.16
+0.29
+0.31
+0.09
+0.09
+0.06
+fixedStep chrom=chr20 start=26918600 step=100 span=100
+0.05
+0.10
+0.06
+fixedStep chrom=chr20 start=26921200 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26922400 step=100 span=100
+0.07
+0.07
+0.08
+0.07
+fixedStep chrom=chr20 start=26927200 step=100 span=100
+0.05
+0.09
+0.08
+fixedStep chrom=chr20 start=26944400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=26958900 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=26962100 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=26963200 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26963400 step=100 span=100
+0.07
+0.16
+0.23
+fixedStep chrom=chr20 start=26964300 step=100 span=100
+0.07
+0.24
+0.11
+fixedStep chrom=chr20 start=26966000 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26969200 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=26971600 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=26974800 step=100 span=100
+0.19
+0.16
+fixedStep chrom=chr20 start=26980800 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=26981600 step=100 span=100
+0.05
+0.07
+0.10
+0.11
+fixedStep chrom=chr20 start=26986600 step=100 span=100
+0.10
+0.21
+0.19
+fixedStep chrom=chr20 start=26989500 step=100 span=100
+0.20
+0.18
+0.10
+fixedStep chrom=chr20 start=26992100 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=26992600 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=26993200 step=100 span=100
+0.17
+fixedStep chrom=chr20 start=26996400 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=26997100 step=100 span=100
+0.05
+0.07
+0.08
+fixedStep chrom=chr20 start=26997900 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=26998500 step=100 span=100
+0.07
+0.09
+0.06
+fixedStep chrom=chr20 start=26999000 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27004600 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=27009300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27012800 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27015700 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27020000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27024000 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27035800 step=100 span=100
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=27037200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27039600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27042800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27047700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27049800 step=100 span=100
+0.13
+0.10
+fixedStep chrom=chr20 start=27051000 step=100 span=100
+0.29
+0.32
+fixedStep chrom=chr20 start=27055900 step=100 span=100
+0.09
+0.06
+fixedStep chrom=chr20 start=27064000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27064300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27064900 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27066400 step=100 span=100
+0.11
+0.08
+fixedStep chrom=chr20 start=27067200 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=27069500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27070400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27071000 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=27076500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27077500 step=100 span=100
+0.09
+0.07
+fixedStep chrom=chr20 start=27081100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27082400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27083000 step=100 span=100
+0.09
+0.08
+0.10
+0.34
+fixedStep chrom=chr20 start=27090200 step=100 span=100
+0.10
+0.07
+fixedStep chrom=chr20 start=27090900 step=100 span=100
+0.10
+0.07
+fixedStep chrom=chr20 start=27094200 step=100 span=100
+0.05
+0.05
+0.06
+fixedStep chrom=chr20 start=27094600 step=100 span=100
+0.05
+0.06
+0.20
+0.17
+fixedStep chrom=chr20 start=27095400 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=27097200 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=27097800 step=100 span=100
+0.05
+0.26
+0.27
+0.14
+fixedStep chrom=chr20 start=27098700 step=100 span=100
+0.08
+0.11
+0.07
+fixedStep chrom=chr20 start=27103100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27110300 step=100 span=100
+0.07
+0.06
+fixedStep chrom=chr20 start=27116300 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27117700 step=100 span=100
+0.05
+0.08
+0.06
+fixedStep chrom=chr20 start=27118100 step=100 span=100
+0.08
+0.10
+0.10
+0.05
+fixedStep chrom=chr20 start=27118600 step=100 span=100
+0.05
+0.08
+0.06
+fixedStep chrom=chr20 start=27122600 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=27125300 step=100 span=100
+0.07
+0.06
+0.07
+fixedStep chrom=chr20 start=27130400 step=100 span=100
+0.06
+0.07
+0.05
+fixedStep chrom=chr20 start=27133900 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27136700 step=100 span=100
+0.06
+0.08
+0.09
+0.16
+fixedStep chrom=chr20 start=27141300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27143000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27146100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27150200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27157000 step=100 span=100
+0.15
+0.07
+fixedStep chrom=chr20 start=27158900 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27161800 step=100 span=100
+0.08
+0.06
+fixedStep chrom=chr20 start=27163100 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=27163500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27169400 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27171400 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27178200 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27180000 step=100 span=100
+0.06
+0.09
+0.09
+0.09
+0.06
+fixedStep chrom=chr20 start=27183500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27184500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27188100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27189900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27194800 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=27198100 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=27209900 step=100 span=100
+0.12
+0.10
+fixedStep chrom=chr20 start=27210600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27211800 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=27212700 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27213300 step=100 span=100
+0.06
+0.07
+0.05
+fixedStep chrom=chr20 start=27213700 step=100 span=100
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=27221800 step=100 span=100
+0.09
+0.05
+fixedStep chrom=chr20 start=27222500 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27223300 step=100 span=100
+0.05
+0.07
+0.07
+fixedStep chrom=chr20 start=27224100 step=100 span=100
+0.08
+0.11
+0.07
+fixedStep chrom=chr20 start=27225100 step=100 span=100
+0.08
+0.15
+0.08
+fixedStep chrom=chr20 start=27243600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27243800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27244500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27261100 step=100 span=100
+0.13
+fixedStep chrom=chr20 start=27261300 step=100 span=100
+0.06
+0.08
+fixedStep chrom=chr20 start=27266800 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=27267500 step=100 span=100
+0.07
+0.08
+0.08
+0.05
+fixedStep chrom=chr20 start=27269900 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27272200 step=100 span=100
+0.05
+0.06
+0.05
+fixedStep chrom=chr20 start=27273900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27274300 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27279100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27286300 step=100 span=100
+0.06
+0.08
+fixedStep chrom=chr20 start=27288200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27296600 step=100 span=100
+0.11
+0.21
+0.26
+fixedStep chrom=chr20 start=27298400 step=100 span=100
+0.06
+0.07
+0.07
+fixedStep chrom=chr20 start=27309400 step=100 span=100
+0.12
+0.11
+fixedStep chrom=chr20 start=27310000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27317700 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=27321600 step=100 span=100
+0.08
+0.14
+0.19
+fixedStep chrom=chr20 start=27324400 step=100 span=100
+0.06
+0.12
+0.06
+fixedStep chrom=chr20 start=27327900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27330500 step=100 span=100
+0.09
+0.13
+0.07
+0.05
+fixedStep chrom=chr20 start=27332000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27336100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27346200 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=27352900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27353300 step=100 span=100
+0.05
+0.15
+0.27
+0.07
+fixedStep chrom=chr20 start=27361700 step=100 span=100
+0.11
+0.11
+0.06
+fixedStep chrom=chr20 start=27365200 step=100 span=100
+0.05
+0.07
+0.09
+0.05
+fixedStep chrom=chr20 start=27369300 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27370100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27374500 step=100 span=100
+0.07
+0.09
+fixedStep chrom=chr20 start=27374800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27376000 step=100 span=100
+0.07
+0.08
+fixedStep chrom=chr20 start=27385400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27385900 step=100 span=100
+0.08
+0.08
+0.05
+fixedStep chrom=chr20 start=27387200 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27387900 step=100 span=100
+0.05
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=27389600 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=27393400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27401900 step=100 span=100
+0.08
+0.09
+0.08
+fixedStep chrom=chr20 start=27407900 step=100 span=100
+0.12
+0.12
+0.10
+fixedStep chrom=chr20 start=27408800 step=100 span=100
+0.08
+0.07
+0.05
+fixedStep chrom=chr20 start=27411600 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=27418300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27419900 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27424700 step=100 span=100
+0.27
+0.06
+fixedStep chrom=chr20 start=27435300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27439400 step=100 span=100
+0.08
+0.08
+0.06
+fixedStep chrom=chr20 start=27440800 step=100 span=100
+0.06
+0.06
+0.05
+fixedStep chrom=chr20 start=27450100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27450600 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27453000 step=100 span=100
+0.12
+0.13
+fixedStep chrom=chr20 start=27455500 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27456000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27458300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27468100 step=100 span=100
+0.06
+0.05
+0.06
+fixedStep chrom=chr20 start=27471400 step=100 span=100
+0.07
+0.11
+0.06
+fixedStep chrom=chr20 start=27477000 step=100 span=100
+0.05
+0.06
+0.05
+0.07
+fixedStep chrom=chr20 start=27481500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27484300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27488200 step=100 span=100
+0.05
+0.05
+0.05
+0.06
+0.05
+fixedStep chrom=chr20 start=27500500 step=100 span=100
+0.08
+0.10
+fixedStep chrom=chr20 start=27501900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27503700 step=100 span=100
+0.05
+0.07
+0.06
+fixedStep chrom=chr20 start=27504800 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=27507100 step=100 span=100
+0.05
+0.08
+0.06
+0.05
+fixedStep chrom=chr20 start=27510100 step=100 span=100
+0.05
+0.05
+0.09
+0.09
+0.08
+fixedStep chrom=chr20 start=27511400 step=100 span=100
+0.08
+0.14
+0.09
+0.06
+fixedStep chrom=chr20 start=27512400 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27515700 step=100 span=100
+0.06
+0.06
+0.06
+fixedStep chrom=chr20 start=27516900 step=100 span=100
+0.11
+0.05
+fixedStep chrom=chr20 start=27520900 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27521800 step=100 span=100
+0.09
+0.10
+fixedStep chrom=chr20 start=27523700 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=27528900 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27530400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27535100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27536200 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=27539600 step=100 span=100
+0.06
+0.08
+0.06
+fixedStep chrom=chr20 start=27540000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27540600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27543000 step=100 span=100
+0.13
+0.12
+fixedStep chrom=chr20 start=27546600 step=100 span=100
+0.05
+0.11
+0.06
+fixedStep chrom=chr20 start=27551100 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=27555500 step=100 span=100
+0.10
+0.13
+0.08
+fixedStep chrom=chr20 start=27556200 step=100 span=100
+0.09
+0.09
+fixedStep chrom=chr20 start=27557300 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27561000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27562500 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=27563700 step=100 span=100
+0.05
+0.10
+0.09
+0.05
+fixedStep chrom=chr20 start=27564200 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27568200 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=27568600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27570800 step=100 span=100
+0.05
+0.08
+fixedStep chrom=chr20 start=27575400 step=100 span=100
+0.11
+0.05
+fixedStep chrom=chr20 start=27578400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27581500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27584600 step=100 span=100
+0.05
+0.07
+0.06
+fixedStep chrom=chr20 start=27585400 step=100 span=100
+0.05
+0.11
+fixedStep chrom=chr20 start=27594700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27598900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27605700 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27612600 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27616600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27618900 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=27620000 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=27620600 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=27631900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27634300 step=100 span=100
+0.11
+0.10
+0.06
+fixedStep chrom=chr20 start=27638800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27640600 step=100 span=100
+0.18
+0.21
+0.12
+fixedStep chrom=chr20 start=27641100 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27647100 step=100 span=100
+0.11
+0.11
+fixedStep chrom=chr20 start=27650600 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=27652800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27660500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27666100 step=100 span=100
+0.05
+0.06
+0.05
+0.05
+0.06
+fixedStep chrom=chr20 start=27670700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27671200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27677400 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27677900 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=27681500 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=27685000 step=100 span=100
+0.08
+0.08
+fixedStep chrom=chr20 start=27685900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27686800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27687200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27687500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27689400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27689800 step=100 span=100
+0.08
+0.38
+fixedStep chrom=chr20 start=27695800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27696500 step=100 span=100
+0.12
+0.10
+0.06
+fixedStep chrom=chr20 start=27703300 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27705900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27713400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27715200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27715600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27718500 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=27720700 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27724900 step=100 span=100
+0.05
+0.09
+0.05
+fixedStep chrom=chr20 start=27725400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27725800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27736500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27751700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27756800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27759800 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27760300 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27765700 step=100 span=100
+0.06
+0.11
+fixedStep chrom=chr20 start=27770200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27777700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27789000 step=100 span=100
+0.06
+0.10
+0.08
+fixedStep chrom=chr20 start=27794800 step=100 span=100
+0.07
+0.15
+0.14
+fixedStep chrom=chr20 start=27797600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27810000 step=100 span=100
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=27814200 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=27822700 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27825800 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27826900 step=100 span=100
+0.05
+0.24
+0.37
+0.39
+0.33
+0.05
+fixedStep chrom=chr20 start=27828400 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27841200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27849400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27853100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27854600 step=100 span=100
+0.05
+0.08
+fixedStep chrom=chr20 start=27857000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27878200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27907900 step=100 span=100
+0.16
+0.12
+fixedStep chrom=chr20 start=27912100 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27917000 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=27919800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27920400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27924400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27928000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27928800 step=100 span=100
+0.13
+0.13
+0.07
+fixedStep chrom=chr20 start=27931500 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27932200 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27938200 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27949800 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=27959200 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27959600 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=27960000 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=27961700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=27962400 step=100 span=100
+0.10
+0.17
+0.28
+0.37
+0.29
+0.13
+0.06
+fixedStep chrom=chr20 start=27963200 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=27964000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27964300 step=100 span=100
+0.12
+0.11
+0.06
+0.22
+0.39
+0.40
+0.17
+fixedStep chrom=chr20 start=27974700 step=100 span=100
+0.05
+0.08
+0.05
+fixedStep chrom=chr20 start=27983400 step=100 span=100
+0.07
+0.17
+0.05
+fixedStep chrom=chr20 start=27984600 step=100 span=100
+0.13
+0.05
+fixedStep chrom=chr20 start=27986300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=27988500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28000500 step=100 span=100
+0.06
+0.10
+fixedStep chrom=chr20 start=28005000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28006000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=28011800 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=28012900 step=100 span=100
+0.07
+0.17
+fixedStep chrom=chr20 start=28014300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28015100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28015900 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=28016500 step=100 span=100
+0.06
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=28019600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28022300 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=28041000 step=100 span=100
+0.07
+0.06
+fixedStep chrom=chr20 start=28041800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28044000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28044400 step=100 span=100
+0.08
+0.18
+0.20
+0.17
+0.10
+0.06
+0.05
+fixedStep chrom=chr20 start=28050000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=28053900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28057100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28068300 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=28071200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28072900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28078600 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=28081900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28090400 step=100 span=100
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=28110300 step=100 span=100
+0.15
+fixedStep chrom=chr20 start=28114800 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=28116200 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28123800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28124300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28125100 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=28126000 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=28129200 step=100 span=100
+0.25
+fixedStep chrom=chr20 start=28133100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28134400 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=28149800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28150300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28151900 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=28155900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28174900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28182100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28182600 step=100 span=100
+0.10
+0.16
+0.16
+fixedStep chrom=chr20 start=28183500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28186600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28196300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28208000 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=28210400 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28213500 step=100 span=100
+0.09
+0.07
+fixedStep chrom=chr20 start=28214000 step=100 span=100
+0.06
+0.07
+0.08
+fixedStep chrom=chr20 start=28215900 step=100 span=100
+0.06
+0.05
+0.05
+fixedStep chrom=chr20 start=28220800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28238200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28238700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28243400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28255400 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28256000 step=100 span=100
+0.11
+0.32
+0.23
+fixedStep chrom=chr20 start=28262700 step=100 span=100
+0.06
+0.06
+0.06
+fixedStep chrom=chr20 start=28263600 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=28271900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28272800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28273500 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=28274200 step=100 span=100
+0.09
+0.13
+0.11
+0.06
+fixedStep chrom=chr20 start=28280300 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=28290200 step=100 span=100
+0.23
+0.05
+fixedStep chrom=chr20 start=28294800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28296200 step=100 span=100
+0.08
+0.09
+fixedStep chrom=chr20 start=28296800 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=28303300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28308100 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=28308700 step=100 span=100
+0.10
+0.10
+0.15
+fixedStep chrom=chr20 start=28310300 step=100 span=100
+0.07
+0.08
+0.05
+fixedStep chrom=chr20 start=28313200 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=28318200 step=100 span=100
+0.41
+0.54
+0.16
+fixedStep chrom=chr20 start=28319100 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=28322400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28322800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28333200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28334200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28336300 step=100 span=100
+0.14
+0.34
+0.66
+0.88
+0.73
+0.37
+0.16
+0.13
+0.07
+0.12
+fixedStep chrom=chr20 start=28355400 step=100 span=100
+0.09
+0.08
+fixedStep chrom=chr20 start=28360500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28368100 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=28375100 step=100 span=100
+0.05
+0.10
+fixedStep chrom=chr20 start=28376200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28377400 step=100 span=100
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=28379700 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28386000 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=28400900 step=100 span=100
+0.05
+0.06
+0.06
+fixedStep chrom=chr20 start=28404300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28407800 step=100 span=100
+0.06
+0.06
+0.06
+fixedStep chrom=chr20 start=28415900 step=100 span=100
+0.30
+0.39
+0.45
+0.49
+0.44
+0.07
+0.05
+fixedStep chrom=chr20 start=28416900 step=100 span=100
+0.15
+0.31
+fixedStep chrom=chr20 start=28423900 step=100 span=100
+0.07
+0.07
+0.09
+fixedStep chrom=chr20 start=28451100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28459600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28462100 step=100 span=100
+0.09
+0.09
+0.11
+0.06
+fixedStep chrom=chr20 start=28465300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28467200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28475000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=28487800 step=100 span=100
+0.08
+0.08
+0.05
+fixedStep chrom=chr20 start=28496200 step=100 span=100
+0.06
+0.16
+0.17
+0.17
+0.12
+fixedStep chrom=chr20 start=28497200 step=100 span=100
+0.14
+fixedStep chrom=chr20 start=28497400 step=100 span=100
+0.05
+0.06
+0.26
+0.21
+0.15
+0.21
+0.43
+0.41
+0.28
+0.27
+0.17
+0.07
+0.08
+0.06
+0.06
+0.11
+0.16
+0.27
+0.25
+0.28
+fixedStep chrom=chr20 start=28504700 step=100 span=100
+0.11
+0.19
+0.26
+0.18
+0.14
+0.07
+fixedStep chrom=chr20 start=28505500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28505700 step=100 span=100
+0.05
+0.05
+0.11
+0.19
+0.16
+0.26
+0.14
+fixedStep chrom=chr20 start=28507200 step=100 span=100
+0.06
+0.13
+0.13
+0.17
+0.07
+0.15
+0.11
+0.10
+0.10
+fixedStep chrom=chr20 start=28508300 step=100 span=100
+0.06
+0.07
+0.10
+0.10
+0.08
+0.08
+fixedStep chrom=chr20 start=28509300 step=100 span=100
+0.10
+0.11
+0.11
+fixedStep chrom=chr20 start=28510100 step=100 span=100
+0.11
+0.16
+0.14
+0.09
+fixedStep chrom=chr20 start=28510700 step=100 span=100
+0.10
+0.07
+0.06
+0.40
+0.39
+fixedStep chrom=chr20 start=28511900 step=100 span=100
+0.08
+0.10
+0.05
+fixedStep chrom=chr20 start=28512700 step=100 span=100
+0.26
+0.41
+0.36
+0.29
+0.31
+0.12
+0.09
+0.28
+0.76
+0.81
+0.69
+fixedStep chrom=chr20 start=28514200 step=100 span=100
+0.16
+0.21
+0.13
+fixedStep chrom=chr20 start=28516000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28516500 step=100 span=100
+0.24
+0.16
+0.16
+fixedStep chrom=chr20 start=28517300 step=100 span=100
+0.24
+0.36
+0.30
+0.08
+fixedStep chrom=chr20 start=28518000 step=100 span=100
+0.07
+0.25
+0.41
+0.54
+0.40
+0.08
+0.06
+0.06
+0.07
+0.06
+0.11
+0.11
+0.10
+fixedStep chrom=chr20 start=28519800 step=100 span=100
+0.08
+0.06
+fixedStep chrom=chr20 start=28520100 step=100 span=100
+0.17
+0.26
+0.08
+0.10
+0.23
+0.29
+0.10
+fixedStep chrom=chr20 start=28521300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28521800 step=100 span=100
+0.09
+0.14
+0.06
+fixedStep chrom=chr20 start=28522500 step=100 span=100
+0.10
+0.13
+0.08
+fixedStep chrom=chr20 start=28523200 step=100 span=100
+0.05
+0.06
+0.10
+0.16
+0.22
+0.15
+0.13
+0.08
+fixedStep chrom=chr20 start=28524100 step=100 span=100
+0.17
+0.20
+0.12
+0.18
+0.21
+0.11
+fixedStep chrom=chr20 start=28524900 step=100 span=100
+0.08
+0.05
+0.08
+0.06
+0.05
+fixedStep chrom=chr20 start=28525500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28525700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28526100 step=100 span=100
+0.05
+0.10
+0.09
+0.06
+fixedStep chrom=chr20 start=28527400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28527900 step=100 span=100
+0.05
+0.07
+0.06
+fixedStep chrom=chr20 start=28531100 step=100 span=100
+0.41
+0.43
+0.25
+0.58
+0.65
+0.20
+fixedStep chrom=chr20 start=28532100 step=100 span=100
+0.08
+0.09
+fixedStep chrom=chr20 start=28533000 step=100 span=100
+0.07
+0.06
+fixedStep chrom=chr20 start=28533400 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=28534400 step=100 span=100
+0.59
+0.60
+0.21
+fixedStep chrom=chr20 start=28534800 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28535000 step=100 span=100
+0.18
+0.37
+fixedStep chrom=chr20 start=28536400 step=100 span=100
+0.08
+0.11
+0.06
+fixedStep chrom=chr20 start=28537200 step=100 span=100
+0.05
+0.09
+0.05
+fixedStep chrom=chr20 start=28538200 step=100 span=100
+0.15
+0.28
+0.13
+0.08
+0.06
+0.05
+fixedStep chrom=chr20 start=28539000 step=100 span=100
+0.08
+0.09
+0.07
+0.05
+fixedStep chrom=chr20 start=28540300 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28540600 step=100 span=100
+0.06
+0.07
+0.06
+fixedStep chrom=chr20 start=28541000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28541500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28542500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28542800 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=28543700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28546200 step=100 span=100
+0.09
+0.13
+0.05
+fixedStep chrom=chr20 start=28547000 step=100 span=100
+0.06
+0.16
+0.20
+fixedStep chrom=chr20 start=28547900 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=28548600 step=100 span=100
+0.05
+0.17
+0.77
+0.83
+0.71
+fixedStep chrom=chr20 start=28549400 step=100 span=100
+0.46
+0.51
+0.24
+0.16
+0.14
+0.18
+0.14
+0.08
+fixedStep chrom=chr20 start=28551500 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=28551900 step=100 span=100
+0.12
+fixedStep chrom=chr20 start=28552100 step=100 span=100
+0.07
+0.12
+fixedStep chrom=chr20 start=28552400 step=100 span=100
+0.12
+fixedStep chrom=chr20 start=28552900 step=100 span=100
+0.09
+0.12
+0.06
+fixedStep chrom=chr20 start=28553500 step=100 span=100
+0.05
+0.21
+0.45
+0.40
+0.08
+0.06
+fixedStep chrom=chr20 start=28555100 step=100 span=100
+0.09
+0.06
+0.05
+0.05
+fixedStep chrom=chr20 start=28643600 step=100 span=100
+0.07
+0.26
+0.49
+0.22
+0.15
+0.17
+0.07
+fixedStep chrom=chr20 start=28644500 step=100 span=100
+0.08
+0.17
+0.12
+fixedStep chrom=chr20 start=28645700 step=100 span=100
+0.12
+fixedStep chrom=chr20 start=28648100 step=100 span=100
+0.15
+0.16
+0.05
+fixedStep chrom=chr20 start=28648700 step=100 span=100
+0.17
+0.28
+0.33
+0.30
+0.19
+0.16
+0.10
+fixedStep chrom=chr20 start=28649600 step=100 span=100
+0.15
+0.34
+0.46
+0.46
+0.65
+fixedStep chrom=chr20 start=28651000 step=100 span=100
+0.17
+0.25
+0.25
+0.18
+0.06
+fixedStep chrom=chr20 start=28651700 step=100 span=100
+0.14
+0.22
+0.22
+0.23
+0.19
+0.10
+0.06
+fixedStep chrom=chr20 start=28653000 step=100 span=100
+0.08
+0.12
+0.32
+0.34
+0.18
+0.06
+fixedStep chrom=chr20 start=28653800 step=100 span=100
+0.05
+0.14
+0.25
+0.23
+0.11
+0.07
+fixedStep chrom=chr20 start=28655000 step=100 span=100
+0.14
+0.20
+0.20
+0.23
+0.14
+0.05
+0.05
+0.08
+0.25
+0.38
+0.36
+0.24
+0.19
+0.10
+fixedStep chrom=chr20 start=28656700 step=100 span=100
+0.12
+0.27
+0.33
+0.26
+0.15
+0.09
+0.09
+0.10
+0.09
+0.21
+0.40
+0.44
+0.33
+0.18
+0.24
+0.32
+0.40
+0.39
+0.38
+0.36
+0.34
+0.34
+0.39
+0.49
+0.51
+0.35
+0.30
+0.29
+0.38
+0.44
+0.41
+0.37
+0.40
+0.41
+0.33
+0.31
+0.31
+0.37
+0.34
+0.24
+0.23
+0.24
+0.16
+0.17
+0.33
+0.36
+0.32
+0.39
+0.38
+0.33
+0.16
+0.30
+0.59
+0.59
+0.38
+0.28
+0.40
+0.32
+0.29
+0.33
+0.46
+0.50
+0.38
+0.18
+fixedStep chrom=chr20 start=28663200 step=100 span=100
+0.16
+0.31
+0.43
+0.40
+0.29
+0.26
+0.17
+0.17
+0.08
+0.10
+0.25
+0.31
+0.31
+0.29
+0.20
+0.13
+0.14
+0.20
+0.29
+0.36
+0.40
+0.41
+0.28
+0.20
+0.23
+0.32
+0.32
+0.33
+0.37
+0.34
+0.37
+0.38
+0.57
+0.61
+0.53
+0.38
+0.35
+0.33
+0.42
+0.49
+0.53
+0.54
+0.62
+0.57
+0.46
+0.42
+0.47
+0.49
+0.35
+0.33
+0.39
+0.42
+0.45
+0.48
+0.38
+0.37
+0.27
+0.15
+fixedStep chrom=chr20 start=28669100 step=100 span=100
+0.07
+0.38
+0.44
+0.44
+0.37
+0.32
+0.12
+0.15
+0.18
+0.23
+0.25
+0.13
+0.16
+0.15
+0.25
+0.22
+0.20
+0.11
+0.10
+fixedStep chrom=chr20 start=28671100 step=100 span=100
+0.07
+0.21
+0.36
+0.36
+0.17
+fixedStep chrom=chr20 start=28671700 step=100 span=100
+0.07
+0.15
+0.13
+0.27
+0.46
+0.48
+0.35
+0.20
+0.19
+0.15
+0.14
+0.22
+0.43
+0.45
+0.42
+0.33
+0.29
+0.16
+0.13
+0.19
+0.25
+0.26
+0.38
+0.44
+0.37
+0.21
+0.24
+0.23
+0.15
+0.11
+0.22
+0.35
+0.29
+0.32
+0.33
+0.30
+0.23
+0.19
+0.23
+0.27
+0.29
+0.37
+0.43
+0.31
+0.26
+0.26
+0.29
+0.39
+0.45
+0.39
+0.35
+0.38
+0.29
+0.24
+0.27
+0.33
+0.36
+0.34
+0.37
+0.43
+0.42
+0.36
+0.11
+fixedStep chrom=chr20 start=28678200 step=100 span=100
+0.26
+0.44
+0.45
+0.35
+0.23
+0.24
+0.29
+0.29
+0.36
+0.35
+0.33
+0.24
+0.19
+0.31
+0.47
+0.48
+0.32
+0.24
+0.17
+0.07
+fixedStep chrom=chr20 start=28680300 step=100 span=100
+0.10
+0.20
+0.19
+0.08
+0.06
+fixedStep chrom=chr20 start=28681300 step=100 span=100
+0.12
+0.16
+0.19
+0.23
+0.11
+0.06
+0.08
+0.16
+0.18
+0.34
+0.43
+0.36
+0.23
+0.18
+0.17
+0.18
+0.24
+0.30
+0.38
+0.36
+0.22
+0.20
+0.22
+0.20
+0.20
+0.25
+0.22
+0.26
+0.39
+0.42
+0.42
+0.37
+0.39
+0.35
+0.32
+0.38
+0.44
+0.46
+0.40
+0.41
+0.45
+0.48
+0.52
+0.47
+0.37
+0.33
+0.30
+0.46
+0.47
+0.39
+0.51
+0.59
+0.50
+0.24
+0.18
+0.30
+0.37
+0.35
+0.30
+0.30
+0.21
+0.14
+0.17
+0.24
+0.20
+0.14
+0.06
+fixedStep chrom=chr20 start=28688200 step=100 span=100
+0.09
+0.23
+0.15
+fixedStep chrom=chr20 start=28689000 step=100 span=100
+0.11
+0.18
+0.21
+0.21
+0.14
+0.10
+0.13
+0.18
+0.18
+0.25
+0.45
+0.49
+0.45
+0.43
+0.41
+0.31
+0.32
+0.32
+0.33
+0.41
+0.40
+0.37
+0.35
+0.43
+0.48
+0.41
+0.37
+0.34
+0.35
+0.50
+0.47
+0.24
+0.27
+0.42
+0.50
+0.48
+0.44
+0.36
+0.32
+0.37
+0.34
+0.39
+0.48
+0.47
+0.36
+0.26
+0.25
+0.26
+0.28
+0.29
+0.18
+0.13
+0.15
+0.16
+0.12
+fixedStep chrom=chr20 start=28696500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28697200 step=100 span=100
+0.10
+0.09
+fixedStep chrom=chr20 start=28698300 step=100 span=100
+0.15
+0.15
+0.23
+0.28
+0.24
+0.20
+0.17
+0.06
+0.21
+0.36
+0.36
+0.29
+0.33
+0.35
+0.28
+0.22
+0.26
+0.26
+0.28
+0.31
+0.32
+0.28
+0.33
+0.37
+0.35
+0.29
+0.34
+0.40
+0.39
+0.29
+0.48
+0.55
+0.47
+0.27
+0.45
+0.51
+0.42
+0.21
+0.25
+0.35
+0.35
+0.30
+0.36
+0.30
+0.25
+0.24
+0.18
+0.09
+0.05
+0.08
+0.12
+0.15
+0.11
+fixedStep chrom=chr20 start=28705100 step=100 span=100
+0.20
+0.30
+0.23
+0.06
+0.08
+0.09
+0.11
+0.14
+0.28
+0.35
+0.27
+0.22
+0.19
+0.24
+0.24
+0.21
+0.40
+0.47
+0.42
+0.39
+0.36
+0.27
+0.23
+0.30
+0.33
+0.35
+0.35
+0.38
+0.37
+0.30
+0.19
+0.22
+0.27
+0.22
+0.24
+0.26
+0.31
+0.24
+0.21
+0.27
+0.24
+0.22
+0.14
+fixedStep chrom=chr20 start=28709700 step=100 span=100
+0.11
+0.25
+0.25
+0.21
+0.22
+0.25
+0.20
+0.26
+0.32
+0.28
+0.25
+0.28
+0.35
+0.28
+0.30
+0.41
+0.44
+0.41
+0.16
+0.12
+0.19
+0.24
+0.34
+0.33
+0.35
+0.29
+0.14
+0.07
+0.08
+0.23
+0.18
+0.12
+0.11
+0.12
+0.09
+0.15
+0.19
+0.12
+0.10
+fixedStep chrom=chr20 start=28714100 step=100 span=100
+0.07
+0.10
+0.07
+fixedStep chrom=chr20 start=28715200 step=100 span=100
+0.11
+0.24
+0.30
+0.19
+0.13
+0.10
+0.12
+0.09
+0.10
+0.22
+0.24
+0.17
+0.18
+0.16
+0.10
+0.11
+0.07
+fixedStep chrom=chr20 start=28717700 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=28719700 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28720300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=28720900 step=100 span=100
+0.09
+0.14
+0.09
+0.10
+0.20
+0.27
+0.20
+0.14
+0.07
+0.10
+0.09
+0.15
+0.17
+0.24
+0.27
+0.21
+0.09
+fixedStep chrom=chr20 start=28722800 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=28724000 step=100 span=100
+0.08
+0.28
+0.31
+0.33
+0.21
+0.22
+0.24
+0.28
+0.24
+0.23
+0.22
+0.26
+0.17
+0.27
+0.47
+0.44
+0.17
+fixedStep chrom=chr20 start=28727400 step=100 span=100
+0.06
+0.19
+0.15
+0.10
+fixedStep chrom=chr20 start=28728200 step=100 span=100
+0.12
+0.16
+0.13
+fixedStep chrom=chr20 start=28750500 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=28754700 step=100 span=100
+0.19
+0.25
+0.15
+0.17
+0.17
+0.12
+0.12
+0.07
+fixedStep chrom=chr20 start=28756000 step=100 span=100
+0.17
+0.17
+0.14
+0.16
+0.16
+0.19
+fixedStep chrom=chr20 start=28756900 step=100 span=100
+0.14
+0.10
+0.08
+0.12
+0.10
+0.07
+0.06
+0.09
+0.08
+fixedStep chrom=chr20 start=28758000 step=100 span=100
+0.12
+0.11
+0.06
+fixedStep chrom=chr20 start=28768900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28769300 step=100 span=100
+0.47
+0.69
+0.72
+0.62
+0.49
+0.31
+0.15
+0.07
+0.07
+0.07
+0.06
+0.11
+0.12
+0.12
+0.08
+0.14
+0.33
+0.50
+0.63
+0.68
+0.64
+0.41
+fixedStep chrom=chr20 start=28780900 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=28810000 step=100 span=100
+0.05
+0.08
+0.10
+0.09
+fixedStep chrom=chr20 start=28814700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28817700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28819200 step=100 span=100
+0.09
+0.12
+0.10
+0.06
+0.08
+fixedStep chrom=chr20 start=28819800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28828200 step=100 span=100
+0.11
+0.28
+0.42
+0.29
+fixedStep chrom=chr20 start=28829100 step=100 span=100
+0.30
+0.41
+0.28
+0.10
+fixedStep chrom=chr20 start=28835100 step=100 span=100
+0.54
+0.83
+0.88
+0.88
+0.85
+0.60
+0.12
+0.10
+0.07
+fixedStep chrom=chr20 start=28836900 step=100 span=100
+0.06
+0.06
+0.07
+0.07
+fixedStep chrom=chr20 start=28837700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28838600 step=100 span=100
+0.06
+0.12
+0.17
+0.87
+0.94
+0.95
+0.86
+0.81
+0.81
+0.78
+0.89
+0.94
+0.95
+0.89
+0.78
+0.80
+0.80
+0.79
+0.86
+0.93
+0.96
+0.92
+0.89
+0.51
+0.70
+0.65
+0.70
+0.76
+0.76
+0.87
+0.87
+0.65
+0.48
+0.81
+0.74
+0.69
+0.72
+0.69
+0.71
+0.71
+0.66
+0.61
+0.61
+0.62
+0.61
+0.61
+0.58
+0.39
+fixedStep chrom=chr20 start=28861400 step=100 span=100
+0.57
+0.64
+0.68
+0.38
+0.25
+0.46
+0.33
+0.34
+fixedStep chrom=chr20 start=28862600 step=100 span=100
+0.28
+0.26
+0.12
+0.56
+0.60
+0.60
+fixedStep chrom=chr20 start=28869700 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=28870500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=28884300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28896300 step=100 span=100
+0.47
+0.38
+0.47
+0.49
+0.44
+0.49
+0.63
+0.70
+0.64
+0.40
+fixedStep chrom=chr20 start=28897400 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=28910300 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=28911900 step=100 span=100
+0.06
+0.09
+fixedStep chrom=chr20 start=28912400 step=100 span=100
+0.08
+0.17
+0.09
+fixedStep chrom=chr20 start=28916400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28924900 step=100 span=100
+0.10
+0.38
+0.53
+0.55
+0.34
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=28925900 step=100 span=100
+0.06
+0.40
+0.56
+0.63
+0.47
+0.21
+fixedStep chrom=chr20 start=28929900 step=100 span=100
+0.18
+0.37
+0.28
+0.11
+fixedStep chrom=chr20 start=28939800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28943300 step=100 span=100
+0.10
+0.12
+0.07
+0.05
+fixedStep chrom=chr20 start=28944100 step=100 span=100
+0.10
+0.12
+0.09
+0.07
+fixedStep chrom=chr20 start=28946400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=28946900 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=28951000 step=100 span=100
+0.42
+0.56
+0.40
+0.14
+0.06
+fixedStep chrom=chr20 start=28955000 step=100 span=100
+0.08
+0.28
+0.46
+0.52
+0.27
+fixedStep chrom=chr20 start=28956000 step=100 span=100
+0.08
+0.12
+0.28
+0.52
+0.65
+0.45
+0.06
+fixedStep chrom=chr20 start=28961100 step=100 span=100
+0.06
+0.16
+0.13
+0.07
+0.06
+0.11
+0.14
+0.15
+0.18
+0.19
+0.19
+0.17
+0.16
+0.17
+0.13
+0.10
+0.09
+0.07
+0.08
+0.15
+0.25
+0.13
+fixedStep chrom=chr20 start=28963400 step=100 span=100
+0.11
+0.20
+0.17
+0.11
+0.15
+0.19
+0.16
+0.15
+0.15
+0.14
+0.11
+0.10
+0.08
+0.12
+0.18
+0.24
+0.18
+0.07
+0.09
+0.14
+0.19
+0.13
+0.16
+0.20
+0.17
+0.19
+0.17
+0.17
+0.18
+0.20
+0.14
+0.11
+0.14
+0.20
+0.23
+0.17
+fixedStep chrom=chr20 start=28967100 step=100 span=100
+0.06
+0.14
+0.15
+0.10
+0.14
+0.16
+0.11
+0.06
+0.09
+0.10
+0.12
+0.11
+0.14
+0.15
+0.10
+0.07
+0.11
+0.08
+0.10
+0.10
+0.08
+0.07
+0.07
+0.07
+0.16
+0.20
+0.27
+0.21
+0.08
+0.07
+0.10
+0.12
+0.15
+0.13
+0.17
+0.20
+0.10
+0.05
+0.05
+0.11
+0.10
+0.08
+0.07
+0.09
+0.15
+0.16
+0.10
+0.07
+0.08
+0.08
+0.05
+0.08
+0.13
+0.16
+0.18
+0.10
+0.05
+0.06
+0.11
+0.08
+0.09
+0.13
+0.17
+0.16
+0.12
+0.07
+0.08
+0.10
+0.18
+0.18
+0.12
+0.09
+0.19
+0.20
+0.16
+0.13
+0.16
+0.13
+0.09
+0.10
+0.15
+0.24
+0.27
+0.20
+0.07
+0.07
+0.14
+0.15
+0.16
+0.14
+0.16
+0.14
+0.07
+0.09
+0.13
+0.17
+0.16
+0.10
+0.10
+0.16
+0.18
+0.18
+0.14
+0.09
+0.12
+0.18
+0.15
+0.15
+0.21
+0.20
+0.19
+0.19
+0.16
+0.14
+0.12
+0.12
+0.12
+0.14
+0.24
+0.29
+0.24
+0.12
+0.10
+0.16
+0.20
+0.16
+0.18
+0.23
+0.23
+0.17
+0.13
+0.16
+0.17
+0.13
+0.14
+0.13
+0.16
+0.20
+0.22
+0.19
+0.09
+0.10
+0.15
+0.18
+0.11
+0.13
+0.15
+0.15
+0.16
+0.18
+0.19
+0.16
+0.13
+0.14
+0.12
+0.16
+0.20
+0.21
+0.18
+0.10
+0.06
+0.09
+0.13
+0.15
+0.21
+0.21
+0.18
+0.07
+fixedStep chrom=chr20 start=28984000 step=100 span=100
+0.05
+0.13
+0.15
+0.12
+0.13
+0.22
+0.17
+0.19
+0.09
+0.06
+0.09
+0.19
+0.16
+0.15
+0.18
+0.19
+0.17
+0.16
+0.15
+0.16
+0.17
+0.13
+0.08
+0.10
+0.17
+0.23
+0.23
+0.11
+0.08
+0.07
+0.12
+0.08
+0.12
+0.18
+0.20
+0.16
+0.08
+fixedStep chrom=chr20 start=28987800 step=100 span=100
+0.08
+0.14
+0.09
+0.08
+0.13
+0.17
+0.23
+0.18
+0.06
+0.05
+0.10
+0.14
+0.12
+0.14
+0.23
+0.23
+0.15
+0.17
+0.13
+0.14
+0.15
+0.09
+0.12
+0.18
+0.28
+0.27
+0.19
+0.06
+0.09
+0.17
+0.18
+0.15
+0.18
+0.17
+0.14
+0.14
+0.21
+0.20
+0.16
+0.12
+0.06
+0.11
+0.17
+0.25
+0.25
+0.13
+0.07
+0.07
+0.12
+0.10
+0.16
+0.18
+0.18
+0.24
+0.14
+0.10
+0.09
+0.12
+0.10
+0.10
+0.16
+0.17
+0.18
+0.15
+0.06
+fixedStep chrom=chr20 start=28994400 step=100 span=100
+0.06
+0.13
+0.18
+0.18
+0.22
+0.18
+0.12
+0.07
+0.10
+0.10
+0.14
+0.07
+0.13
+0.14
+0.16
+0.18
+0.11
+fixedStep chrom=chr20 start=28996200 step=100 span=100
+0.05
+0.08
+0.11
+0.13
+0.17
+0.21
+0.22
+0.14
+0.05
+0.07
+0.12
+0.16
+0.10
+0.10
+0.20
+0.19
+0.15
+0.10
+0.07
+0.08
+0.13
+0.19
+0.14
+0.18
+0.19
+0.18
+0.10
+0.06
+0.10
+0.17
+0.14
+0.08
+0.14
+0.24
+0.18
+0.12
+0.07
+0.05
+0.08
+0.17
+0.20
+0.17
+0.10
+0.06
+0.13
+0.12
+0.07
+0.10
+0.18
+0.10
+0.08
+0.11
+0.16
+0.14
+0.10
+0.06
+0.06
+0.07
+0.14
+0.16
+0.19
+0.19
+0.22
+0.15
+0.08
+0.07
+0.14
+0.15
+0.11
+0.12
+0.19
+0.20
+0.21
+0.15
+0.07
+0.10
+0.18
+0.18
+0.13
+0.19
+0.22
+0.18
+0.16
+0.17
+0.16
+0.10
+0.10
+0.10
+0.10
+0.13
+0.19
+0.19
+0.10
+0.05
+0.09
+0.15
+0.14
+0.18
+0.20
+0.23
+0.18
+0.10
+fixedStep chrom=chr20 start=29006500 step=100 span=100
+0.12
+0.16
+0.12
+0.10
+0.18
+0.24
+0.20
+0.16
+0.09
+0.09
+0.10
+0.16
+0.15
+0.14
+0.21
+0.19
+0.15
+0.06
+fixedStep chrom=chr20 start=29008400 step=100 span=100
+0.10
+0.15
+0.08
+0.10
+0.19
+0.21
+0.17
+0.13
+0.05
+0.07
+0.08
+0.14
+0.16
+0.17
+0.23
+0.23
+0.15
+fixedStep chrom=chr20 start=29010300 step=100 span=100
+0.09
+0.11
+0.10
+0.12
+0.19
+0.18
+0.16
+0.11
+0.07
+0.10
+0.11
+0.14
+0.21
+0.23
+0.27
+0.16
+0.12
+0.08
+0.07
+0.16
+0.19
+0.11
+0.13
+0.18
+0.17
+0.13
+fixedStep chrom=chr20 start=29013300 step=100 span=100
+0.05
+0.08
+0.10
+0.11
+fixedStep chrom=chr20 start=29014100 step=100 span=100
+0.17
+0.21
+0.17
+0.07
+fixedStep chrom=chr20 start=29125800 step=100 span=100
+0.26
+0.57
+0.73
+0.87
+0.89
+0.74
+0.59
+0.76
+0.76
+0.13
+0.49
+0.29
+0.32
+0.30
+0.05
+0.82
+0.85
+0.58
+0.47
+0.23
+0.64
+0.62
+0.76
+0.78
+0.83
+0.76
+0.67
+0.84
+0.88
+0.51
+0.69
+0.74
+0.90
+0.91
+0.90
+0.11
+fixedStep chrom=chr20 start=29129800 step=100 span=100
+0.44
+0.71
+0.74
+0.74
+0.68
+0.68
+0.66
+0.47
+0.58
+0.36
+0.17
+fixedStep chrom=chr20 start=29131100 step=100 span=100
+0.08
+0.08
+0.47
+0.42
+0.34
+0.78
+0.80
+0.79
+0.23
+0.52
+0.57
+0.46
+0.42
+0.21
+0.21
+0.11
+0.27
+0.40
+0.48
+0.69
+0.76
+0.71
+0.64
+0.09
+fixedStep chrom=chr20 start=29133800 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=29134000 step=100 span=100
+0.49
+0.62
+0.89
+0.89
+0.76
+0.73
+0.45
+0.79
+0.78
+0.65
+0.60
+0.60
+0.56
+0.13
+0.76
+0.77
+0.64
+0.47
+0.46
+0.46
+0.05
+0.70
+0.75
+0.76
+0.82
+0.80
+0.72
+0.40
+0.48
+0.60
+0.53
+0.74
+0.72
+0.64
+0.77
+0.74
+0.73
+0.64
+0.57
+0.61
+0.74
+0.73
+0.59
+0.71
+0.65
+0.66
+0.74
+0.78
+0.77
+0.34
+0.23
+0.10
+0.18
+0.29
+0.24
+0.79
+0.79
+0.55
+0.06
+0.48
+0.54
+0.38
+0.59
+0.61
+0.68
+0.69
+0.61
+0.56
+fixedStep chrom=chr20 start=29141100 step=100 span=100
+0.05
+0.22
+0.56
+0.54
+fixedStep chrom=chr20 start=29141600 step=100 span=100
+0.29
+0.25
+0.40
+0.40
+0.20
+0.24
+0.09
+fixedStep chrom=chr20 start=29142500 step=100 span=100
+0.13
+0.31
+0.06
+0.10
+0.08
+0.15
+0.15
+0.05
+0.64
+0.68
+0.73
+0.73
+0.36
+0.66
+0.54
+0.53
+0.21
+fixedStep chrom=chr20 start=29144300 step=100 span=100
+0.59
+0.69
+0.77
+0.77
+0.75
+0.73
+0.56
+0.61
+0.35
+0.55
+0.59
+0.59
+0.51
+0.51
+0.78
+0.76
+0.61
+0.59
+0.65
+0.64
+0.19
+0.31
+0.33
+0.78
+0.54
+fixedStep chrom=chr20 start=29147000 step=100 span=100
+0.51
+0.59
+0.45
+fixedStep chrom=chr20 start=29147800 step=100 span=100
+0.64
+0.66
+0.22
+0.48
+0.44
+0.19
+0.27
+0.20
+0.27
+0.39
+0.80
+0.83
+0.84
+0.82
+0.58
+0.35
+0.75
+0.78
+0.71
+0.74
+0.76
+0.62
+0.64
+0.53
+0.81
+0.79
+0.52
+0.35
+0.61
+0.78
+0.77
+0.16
+0.12
+0.19
+0.41
+0.67
+0.70
+0.74
+0.58
+0.67
+0.62
+0.26
+0.47
+0.15
+0.54
+0.61
+0.65
+0.68
+0.59
+0.31
+0.64
+0.60
+0.05
+fixedStep chrom=chr20 start=29153200 step=100 span=100
+0.83
+0.84
+0.79
+0.41
+0.41
+0.50
+0.33
+0.45
+0.44
+0.62
+0.66
+0.57
+0.67
+0.67
+0.71
+0.81
+0.87
+0.82
+0.73
+0.74
+0.77
+0.85
+0.85
+0.83
+0.76
+0.77
+0.70
+0.40
+0.77
+0.77
+0.26
+0.48
+0.46
+0.51
+0.48
+0.17
+0.68
+0.82
+0.80
+0.79
+0.75
+0.09
+0.34
+0.57
+0.74
+0.63
+0.77
+0.83
+0.63
+0.57
+0.59
+0.56
+0.71
+0.84
+0.84
+0.82
+0.56
+0.55
+0.66
+0.54
+0.49
+0.39
+0.73
+0.73
+0.06
+0.76
+0.76
+0.61
+0.17
+0.20
+0.54
+0.58
+0.83
+0.81
+0.63
+0.53
+0.32
+0.70
+0.74
+0.49
+0.50
+0.50
+0.86
+0.87
+0.87
+0.84
+0.19
+0.06
+0.08
+0.28
+0.59
+0.65
+0.63
+0.34
+0.47
+0.37
+0.29
+0.33
+0.46
+0.64
+0.77
+0.78
+0.69
+0.71
+0.16
+0.76
+0.75
+0.58
+0.60
+0.49
+0.31
+fixedStep chrom=chr20 start=29164400 step=100 span=100
+0.05
+0.28
+0.73
+0.83
+0.76
+0.70
+0.73
+0.51
+0.32
+fixedStep chrom=chr20 start=29165500 step=100 span=100
+0.40
+0.39
+0.42
+0.06
+0.53
+0.52
+0.42
+0.33
+0.40
+0.20
+fixedStep chrom=chr20 start=29166700 step=100 span=100
+0.13
+0.17
+fixedStep chrom=chr20 start=29167200 step=100 span=100
+0.84
+0.87
+0.87
+0.57
+0.43
+0.67
+0.68
+0.87
+0.87
+0.87
+0.87
+0.80
+0.80
+0.11
+0.12
+0.60
+0.79
+0.77
+0.33
+0.48
+0.45
+0.61
+0.57
+0.17
+0.74
+0.79
+0.80
+0.74
+0.52
+0.57
+0.18
+0.53
+0.45
+0.79
+0.84
+0.75
+0.86
+0.85
+0.74
+0.44
+0.74
+0.86
+0.95
+0.94
+0.79
+0.84
+0.77
+0.16
+0.78
+0.80
+0.69
+0.19
+0.44
+0.44
+0.12
+0.30
+0.27
+0.59
+0.69
+0.63
+0.67
+0.55
+0.47
+fixedStep chrom=chr20 start=29173800 step=100 span=100
+0.09
+0.10
+0.11
+fixedStep chrom=chr20 start=29174200 step=100 span=100
+0.61
+0.68
+0.67
+fixedStep chrom=chr20 start=29174600 step=100 span=100
+0.80
+0.87
+0.84
+0.76
+0.59
+0.47
+0.56
+0.68
+0.50
+0.72
+0.57
+0.75
+0.61
+0.82
+0.85
+0.87
+0.87
+0.87
+0.85
+0.25
+0.47
+0.45
+0.50
+0.62
+0.80
+0.81
+0.81
+0.84
+0.83
+0.51
+fixedStep chrom=chr20 start=29177700 step=100 span=100
+0.11
+0.61
+0.63
+0.76
+0.79
+0.69
+0.65
+0.44
+0.86
+0.86
+0.80
+0.73
+0.82
+0.81
+0.52
+0.61
+0.48
+0.21
+0.71
+0.80
+0.77
+0.28
+0.49
+0.56
+0.59
+0.77
+0.72
+0.70
+0.71
+0.69
+0.67
+0.21
+0.45
+0.35
+fixedStep chrom=chr20 start=29181200 step=100 span=100
+0.64
+0.81
+0.83
+0.81
+0.86
+0.35
+0.12
+0.78
+0.85
+0.90
+0.89
+0.81
+0.76
+0.67
+0.61
+0.43
+0.59
+0.61
+0.36
+0.63
+0.60
+0.64
+0.23
+0.19
+0.08
+fixedStep chrom=chr20 start=29184100 step=100 span=100
+0.95
+0.98
+0.97
+0.84
+0.84
+0.75
+0.63
+0.83
+0.89
+0.79
+0.73
+0.05
+0.67
+0.71
+0.71
+0.61
+0.70
+0.59
+0.50
+0.75
+0.78
+0.75
+0.12
+0.14
+0.31
+0.37
+0.61
+0.61
+0.56
+0.62
+0.60
+0.30
+0.06
+0.05
+0.66
+0.74
+0.79
+0.79
+0.76
+0.62
+0.49
+0.71
+0.78
+0.79
+0.32
+0.51
+0.70
+0.79
+0.83
+0.58
+0.67
+0.70
+0.74
+0.71
+fixedStep chrom=chr20 start=29189600 step=100 span=100
+0.61
+0.67
+0.69
+0.55
+0.86
+0.89
+0.75
+0.74
+0.22
+0.12
+0.78
+0.79
+0.77
+0.61
+0.63
+0.62
+0.44
+0.41
+0.67
+0.59
+0.67
+0.39
+0.56
+0.64
+0.37
+0.23
+0.47
+0.20
+0.28
+0.86
+0.87
+0.75
+0.47
+fixedStep chrom=chr20 start=29193200 step=100 span=100
+0.59
+0.71
+0.72
+0.73
+0.62
+0.61
+0.85
+0.81
+0.56
+0.61
+0.35
+0.40
+0.37
+0.18
+0.22
+0.32
+0.05
+0.42
+0.39
+0.18
+0.17
+0.13
+0.69
+0.73
+0.76
+0.74
+0.57
+0.73
+0.70
+0.70
+0.63
+0.60
+0.75
+0.84
+0.91
+0.89
+0.85
+0.60
+0.69
+0.61
+0.84
+0.75
+0.63
+0.64
+0.72
+0.67
+0.70
+0.59
+0.58
+0.29
+0.48
+0.56
+0.55
+0.26
+0.54
+0.76
+0.69
+0.21
+0.58
+0.63
+0.54
+0.24
+fixedStep chrom=chr20 start=29199600 step=100 span=100
+0.76
+0.91
+0.91
+0.42
+0.62
+0.68
+0.57
+0.36
+0.41
+0.61
+0.53
+0.67
+0.53
+0.25
+0.80
+0.76
+0.79
+0.55
+0.86
+0.84
+0.81
+0.52
+0.37
+0.09
+fixedStep chrom=chr20 start=29202400 step=100 span=100
+0.66
+0.78
+0.77
+0.54
+0.66
+0.68
+0.44
+0.64
+0.54
+fixedStep chrom=chr20 start=29203600 step=100 span=100
+0.07
+0.16
+fixedStep chrom=chr20 start=29204100 step=100 span=100
+0.35
+0.74
+0.60
+0.60
+0.67
+0.67
+fixedStep chrom=chr20 start=29204900 step=100 span=100
+0.06
+0.08
+0.06
+0.09
+0.15
+0.11
+fixedStep chrom=chr20 start=29209800 step=100 span=100
+0.05
+0.23
+0.22
+0.10
+0.05
+fixedStep chrom=chr20 start=29213000 step=100 span=100
+0.09
+0.26
+0.38
+0.42
+0.41
+0.16
+0.14
+0.14
+fixedStep chrom=chr20 start=29213900 step=100 span=100
+0.27
+0.52
+0.49
+0.47
+0.37
+0.19
+0.05
+fixedStep chrom=chr20 start=29214800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29215200 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=29232700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29253700 step=100 span=100
+0.06
+0.62
+0.61
+0.50
+0.28
+0.13
+0.05
+fixedStep chrom=chr20 start=29255700 step=100 span=100
+0.09
+0.26
+0.51
+0.59
+0.48
+0.10
+fixedStep chrom=chr20 start=29257000 step=100 span=100
+0.13
+0.17
+0.10
+fixedStep chrom=chr20 start=29260300 step=100 span=100
+0.05
+0.07
+0.11
+0.23
+0.39
+0.22
+fixedStep chrom=chr20 start=29261200 step=100 span=100
+0.09
+0.05
+fixedStep chrom=chr20 start=29261700 step=100 span=100
+0.18
+0.24
+0.24
+0.21
+0.21
+0.20
+0.17
+0.19
+0.19
+0.20
+0.20
+0.21
+0.21
+0.22
+0.24
+0.23
+0.21
+0.22
+0.24
+0.23
+0.19
+0.17
+0.21
+0.28
+fixedStep chrom=chr20 start=29266600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29271100 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=29271300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29276300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29283200 step=100 span=100
+0.06
+0.08
+0.10
+fixedStep chrom=chr20 start=29284100 step=100 span=100
+0.10
+0.12
+0.09
+fixedStep chrom=chr20 start=29286300 step=100 span=100
+0.08
+0.11
+fixedStep chrom=chr20 start=29287400 step=100 span=100
+0.05
+0.08
+0.21
+0.45
+0.53
+0.26
+fixedStep chrom=chr20 start=29290300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29290700 step=100 span=100
+0.32
+0.59
+0.43
+0.27
+0.06
+fixedStep chrom=chr20 start=29294300 step=100 span=100
+0.06
+0.16
+0.25
+0.28
+0.09
+fixedStep chrom=chr20 start=29295100 step=100 span=100
+0.09
+0.25
+0.24
+0.15
+0.05
+fixedStep chrom=chr20 start=29307800 step=100 span=100
+0.08
+0.13
+0.12
+0.09
+fixedStep chrom=chr20 start=29312900 step=100 span=100
+0.12
+0.21
+0.18
+0.06
+fixedStep chrom=chr20 start=29315100 step=100 span=100
+0.15
+0.19
+0.17
+fixedStep chrom=chr20 start=29327400 step=100 span=100
+0.09
+0.30
+0.27
+fixedStep chrom=chr20 start=29343200 step=100 span=100
+0.21
+0.05
+fixedStep chrom=chr20 start=29387000 step=100 span=100
+0.05
+0.09
+0.15
+0.15
+0.09
+fixedStep chrom=chr20 start=29387700 step=100 span=100
+0.09
+0.12
+0.05
+fixedStep chrom=chr20 start=29438600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29451300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29521200 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=29538300 step=100 span=100
+0.08
+0.16
+0.16
+0.09
+fixedStep chrom=chr20 start=29539000 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=29540300 step=100 span=100
+0.10
+0.14
+0.12
+0.08
+fixedStep chrom=chr20 start=29541100 step=100 span=100
+0.15
+0.11
+fixedStep chrom=chr20 start=29541700 step=100 span=100
+0.18
+0.27
+0.19
+0.09
+0.05
+fixedStep chrom=chr20 start=29555600 step=100 span=100
+0.12
+0.07
+0.05
+fixedStep chrom=chr20 start=29556100 step=100 span=100
+0.06
+0.25
+0.23
+0.13
+0.10
+0.06
+0.05
+fixedStep chrom=chr20 start=29558800 step=100 span=100
+0.16
+0.21
+0.06
+fixedStep chrom=chr20 start=29562600 step=100 span=100
+0.11
+0.10
+0.06
+fixedStep chrom=chr20 start=29563600 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=29565400 step=100 span=100
+0.10
+0.09
+0.05
+0.07
+fixedStep chrom=chr20 start=29567400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29593200 step=100 span=100
+0.15
+0.30
+0.29
+0.05
+fixedStep chrom=chr20 start=29594100 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=29649400 step=100 span=100
+0.50
+0.72
+0.68
+0.21
+fixedStep chrom=chr20 start=29693100 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=29696400 step=100 span=100
+0.05
+0.28
+0.27
+0.08
+fixedStep chrom=chr20 start=29699500 step=100 span=100
+0.12
+0.31
+0.44
+0.53
+0.42
+0.13
+0.07
+0.08
+fixedStep chrom=chr20 start=29700600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=29702000 step=100 span=100
+0.07
+0.07
+0.10
+fixedStep chrom=chr20 start=29703000 step=100 span=100
+0.12
+0.49
+0.60
+0.34
+0.06
+fixedStep chrom=chr20 start=29704700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29712000 step=100 span=100
+0.16
+0.30
+0.34
+fixedStep chrom=chr20 start=29713600 step=100 span=100
+0.37
+0.50
+0.23
+fixedStep chrom=chr20 start=29758400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29764400 step=100 span=100
+0.10
+0.05
+fixedStep chrom=chr20 start=29764900 step=100 span=100
+0.06
+0.20
+0.24
+0.13
+fixedStep chrom=chr20 start=29799700 step=100 span=100
+0.11
+0.13
+fixedStep chrom=chr20 start=29802400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29802700 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=29822800 step=100 span=100
+0.07
+0.22
+0.21
+fixedStep chrom=chr20 start=29840400 step=100 span=100
+0.11
+0.13
+0.06
+fixedStep chrom=chr20 start=29841500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=29847500 step=100 span=100
+0.10
+0.43
+0.31
+0.10
+0.07
+0.08
+fixedStep chrom=chr20 start=29850100 step=100 span=100
+0.07
+0.13
+0.09
+0.08
+fixedStep chrom=chr20 start=29856100 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=29856700 step=100 span=100
+0.09
+0.17
+0.16
+0.16
+0.19
+0.05
+fixedStep chrom=chr20 start=29857400 step=100 span=100
+0.08
+0.26
+0.19
+0.06
+0.06
+0.06
+fixedStep chrom=chr20 start=29884800 step=100 span=100
+0.07
+0.09
+0.09
+0.05
+fixedStep chrom=chr20 start=29885300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29885500 step=100 span=100
+0.09
+0.13
+0.22
+0.23
+0.19
+0.17
+0.19
+0.27
+fixedStep chrom=chr20 start=29888900 step=100 span=100
+0.07
+0.06
+fixedStep chrom=chr20 start=29889300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29905400 step=100 span=100
+0.06
+0.11
+0.21
+0.31
+0.35
+0.19
+fixedStep chrom=chr20 start=29906400 step=100 span=100
+0.06
+0.19
+0.20
+0.20
+fixedStep chrom=chr20 start=29909900 step=100 span=100
+0.24
+0.21
+fixedStep chrom=chr20 start=29910700 step=100 span=100
+0.12
+0.19
+0.21
+0.30
+0.31
+0.20
+0.09
+0.07
+0.09
+0.17
+0.17
+0.55
+0.66
+0.69
+0.63
+0.73
+0.65
+0.34
+fixedStep chrom=chr20 start=29912800 step=100 span=100
+0.06
+0.12
+0.47
+0.63
+0.60
+0.60
+0.28
+0.19
+0.26
+0.37
+0.60
+0.45
+0.49
+0.35
+0.12
+0.15
+0.29
+0.49
+0.59
+0.41
+0.31
+0.35
+0.32
+0.50
+0.51
+0.52
+0.39
+0.41
+0.38
+0.33
+0.67
+0.83
+0.83
+0.78
+0.43
+0.42
+0.15
+0.09
+0.44
+0.62
+0.65
+0.66
+0.66
+0.53
+0.23
+fixedStep chrom=chr20 start=29917400 step=100 span=100
+0.47
+0.57
+0.50
+0.55
+0.63
+0.41
+0.11
+0.05
+fixedStep chrom=chr20 start=29918400 step=100 span=100
+0.07
+0.13
+0.15
+fixedStep chrom=chr20 start=29919100 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=29919400 step=100 span=100
+0.05
+0.32
+0.23
+0.27
+0.52
+0.34
+0.18
+0.05
+fixedStep chrom=chr20 start=29920500 step=100 span=100
+0.07
+0.17
+0.09
+fixedStep chrom=chr20 start=29921100 step=100 span=100
+0.05
+0.46
+0.48
+0.30
+0.23
+0.41
+0.60
+0.66
+0.76
+0.72
+0.11
+0.08
+fixedStep chrom=chr20 start=29922500 step=100 span=100
+0.11
+0.39
+0.17
+0.40
+0.43
+0.23
+0.05
+0.06
+0.32
+0.36
+0.15
+0.12
+0.33
+0.49
+0.62
+0.56
+0.57
+0.52
+0.25
+0.16
+0.09
+0.07
+0.19
+0.76
+0.77
+0.55
+0.30
+0.34
+0.24
+0.07
+0.05
+fixedStep chrom=chr20 start=29925700 step=100 span=100
+0.24
+0.46
+0.60
+0.53
+0.42
+0.63
+0.68
+0.46
+0.06
+0.06
+fixedStep chrom=chr20 start=29927600 step=100 span=100
+0.72
+0.61
+0.45
+0.07
+fixedStep chrom=chr20 start=29928200 step=100 span=100
+0.08
+0.08
+0.10
+0.22
+0.11
+0.09
+0.09
+0.12
+0.24
+0.50
+0.65
+0.71
+0.42
+0.10
+0.08
+0.07
+0.07
+0.19
+0.44
+0.69
+0.71
+0.70
+fixedStep chrom=chr20 start=29930700 step=100 span=100
+0.22
+0.37
+0.27
+fixedStep chrom=chr20 start=29931300 step=100 span=100
+0.07
+0.31
+0.36
+0.39
+0.50
+fixedStep chrom=chr20 start=29931900 step=100 span=100
+0.39
+0.41
+0.18
+0.27
+0.40
+0.24
+0.14
+0.13
+0.09
+0.21
+0.21
+0.12
+0.13
+0.21
+0.12
+0.10
+0.07
+0.10
+0.14
+0.13
+0.06
+0.09
+0.07
+0.18
+0.41
+0.50
+0.61
+0.64
+0.47
+0.10
+0.29
+0.44
+0.21
+0.13
+fixedStep chrom=chr20 start=29935400 step=100 span=100
+0.48
+0.49
+0.22
+0.40
+0.48
+0.65
+0.61
+0.19
+0.20
+0.58
+0.64
+0.51
+0.39
+0.43
+0.50
+0.06
+0.08
+fixedStep chrom=chr20 start=29937200 step=100 span=100
+0.10
+0.31
+0.39
+0.53
+0.36
+0.13
+0.14
+fixedStep chrom=chr20 start=29938000 step=100 span=100
+0.46
+0.66
+0.72
+0.70
+0.55
+0.34
+0.31
+0.17
+0.31
+0.44
+0.27
+0.14
+0.47
+0.58
+0.59
+0.12
+0.20
+0.12
+0.15
+0.17
+0.38
+0.25
+0.50
+0.50
+0.28
+0.35
+0.36
+0.23
+0.06
+0.16
+0.18
+fixedStep chrom=chr20 start=29941700 step=100 span=100
+0.07
+0.06
+0.28
+0.71
+0.83
+0.78
+0.53
+fixedStep chrom=chr20 start=29942700 step=100 span=100
+0.18
+fixedStep chrom=chr20 start=29943300 step=100 span=100
+0.05
+0.06
+0.06
+0.07
+fixedStep chrom=chr20 start=29944200 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=29944500 step=100 span=100
+0.06
+0.34
+0.41
+0.06
+0.06
+0.08
+0.24
+0.41
+fixedStep chrom=chr20 start=29945500 step=100 span=100
+0.40
+0.50
+0.45
+0.46
+0.52
+0.52
+0.25
+0.24
+0.16
+0.65
+0.71
+0.74
+0.51
+0.52
+0.49
+0.08
+0.16
+0.20
+0.24
+0.37
+0.45
+0.36
+0.10
+fixedStep chrom=chr20 start=29947900 step=100 span=100
+0.07
+0.16
+0.11
+0.41
+0.53
+0.55
+0.20
+fixedStep chrom=chr20 start=29948700 step=100 span=100
+0.09
+0.63
+0.41
+0.40
+0.49
+0.59
+0.52
+0.41
+0.26
+0.17
+0.32
+0.16
+0.06
+0.07
+0.07
+0.29
+0.29
+fixedStep chrom=chr20 start=29950500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29950700 step=100 span=100
+0.15
+0.36
+0.14
+0.27
+0.45
+0.51
+0.73
+0.79
+0.75
+0.44
+0.24
+0.28
+0.63
+0.77
+0.72
+0.83
+0.83
+0.43
+0.58
+0.56
+0.06
+fixedStep chrom=chr20 start=29952900 step=100 span=100
+0.20
+0.28
+0.18
+0.18
+0.08
+0.17
+0.15
+0.10
+0.48
+0.58
+0.19
+0.45
+0.25
+0.39
+0.35
+0.10
+0.09
+0.39
+0.33
+0.06
+fixedStep chrom=chr20 start=29955100 step=100 span=100
+0.06
+0.19
+0.63
+fixedStep chrom=chr20 start=29955500 step=100 span=100
+0.17
+0.18
+0.49
+0.15
+0.06
+fixedStep chrom=chr20 start=29956600 step=100 span=100
+0.78
+0.78
+0.71
+0.56
+0.54
+0.27
+fixedStep chrom=chr20 start=29957300 step=100 span=100
+0.35
+0.60
+0.65
+0.60
+0.46
+0.38
+0.43
+0.33
+0.11
+fixedStep chrom=chr20 start=29958300 step=100 span=100
+0.35
+0.17
+0.06
+0.36
+0.51
+0.13
+0.18
+0.16
+0.10
+fixedStep chrom=chr20 start=29959300 step=100 span=100
+0.05
+0.10
+fixedStep chrom=chr20 start=29959600 step=100 span=100
+0.05
+0.06
+0.25
+0.53
+0.67
+0.58
+0.31
+fixedStep chrom=chr20 start=29960700 step=100 span=100
+0.05
+0.10
+0.20
+0.29
+0.23
+0.21
+0.51
+0.73
+0.60
+0.11
+0.23
+0.32
+0.17
+fixedStep chrom=chr20 start=29962400 step=100 span=100
+0.07
+0.08
+0.33
+0.34
+0.09
+fixedStep chrom=chr20 start=29963400 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=29963700 step=100 span=100
+0.12
+0.39
+0.09
+0.17
+0.07
+0.43
+0.46
+0.08
+fixedStep chrom=chr20 start=29964900 step=100 span=100
+0.06
+0.08
+0.22
+0.29
+0.36
+0.32
+0.21
+0.14
+fixedStep chrom=chr20 start=29965900 step=100 span=100
+0.07
+0.07
+0.06
+fixedStep chrom=chr20 start=29966300 step=100 span=100
+0.06
+0.47
+0.46
+0.36
+0.19
+0.35
+0.23
+0.09
+0.07
+0.32
+0.40
+0.57
+0.63
+0.47
+0.43
+0.41
+0.16
+fixedStep chrom=chr20 start=29968100 step=100 span=100
+0.46
+0.52
+0.28
+0.10
+0.09
+fixedStep chrom=chr20 start=29968700 step=100 span=100
+0.08
+0.12
+0.40
+0.54
+0.57
+0.30
+0.25
+0.14
+0.57
+0.63
+0.47
+0.19
+0.17
+0.47
+0.24
+0.17
+0.42
+0.48
+0.26
+0.14
+0.20
+0.07
+0.28
+0.32
+0.49
+0.27
+0.25
+0.12
+0.09
+0.11
+0.10
+0.23
+0.17
+0.08
+0.06
+0.21
+0.30
+fixedStep chrom=chr20 start=29973500 step=100 span=100
+0.05
+0.08
+0.05
+fixedStep chrom=chr20 start=29974000 step=100 span=100
+0.24
+0.38
+0.40
+0.22
+0.34
+0.48
+0.46
+0.50
+0.49
+fixedStep chrom=chr20 start=29975000 step=100 span=100
+0.15
+0.18
+0.14
+0.43
+0.60
+0.68
+0.64
+fixedStep chrom=chr20 start=29975900 step=100 span=100
+0.11
+0.65
+0.70
+0.45
+0.21
+0.28
+0.20
+fixedStep chrom=chr20 start=29976700 step=100 span=100
+0.65
+0.68
+0.55
+0.32
+0.25
+0.08
+fixedStep chrom=chr20 start=29977500 step=100 span=100
+0.12
+0.18
+0.31
+0.29
+0.06
+0.35
+0.41
+0.28
+fixedStep chrom=chr20 start=29978500 step=100 span=100
+0.26
+0.19
+fixedStep chrom=chr20 start=29978900 step=100 span=100
+0.08
+0.19
+0.06
+0.18
+0.27
+0.21
+0.09
+0.08
+0.05
+fixedStep chrom=chr20 start=29980200 step=100 span=100
+0.10
+0.24
+0.19
+0.09
+fixedStep chrom=chr20 start=29980900 step=100 span=100
+0.19
+0.18
+0.18
+0.11
+0.10
+0.49
+0.63
+0.36
+fixedStep chrom=chr20 start=29981800 step=100 span=100
+0.13
+0.26
+0.57
+0.58
+0.26
+0.40
+0.31
+0.16
+0.13
+0.23
+0.28
+0.22
+0.13
+fixedStep chrom=chr20 start=29983900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=29984100 step=100 span=100
+0.24
+0.30
+0.28
+0.17
+0.67
+0.52
+0.20
+0.17
+0.32
+0.19
+0.10
+fixedStep chrom=chr20 start=29985300 step=100 span=100
+0.09
+0.11
+0.07
+fixedStep chrom=chr20 start=29985800 step=100 span=100
+0.24
+0.24
+0.13
+0.05
+0.17
+fixedStep chrom=chr20 start=29986400 step=100 span=100
+0.22
+0.21
+0.15
+0.43
+0.46
+0.48
+0.66
+0.68
+0.68
+0.48
+0.44
+0.19
+fixedStep chrom=chr20 start=29987800 step=100 span=100
+0.05
+0.29
+0.33
+0.25
+0.08
+0.09
+0.12
+0.15
+0.24
+0.41
+0.42
+0.27
+0.10
+0.07
+fixedStep chrom=chr20 start=29989300 step=100 span=100
+0.05
+0.07
+0.06
+fixedStep chrom=chr20 start=29990000 step=100 span=100
+0.32
+0.21
+0.05
+0.06
+0.25
+0.62
+0.54
+0.16
+0.10
+0.09
+0.13
+0.34
+0.70
+0.79
+0.80
+0.46
+fixedStep chrom=chr20 start=29991900 step=100 span=100
+0.08
+0.26
+0.13
+0.08
+0.43
+0.44
+0.67
+0.75
+0.75
+0.49
+0.30
+0.12
+0.26
+0.16
+0.29
+0.73
+0.83
+0.81
+0.47
+0.41
+0.25
+0.39
+0.48
+0.21
+fixedStep chrom=chr20 start=29994500 step=100 span=100
+0.07
+0.06
+0.12
+0.20
+0.15
+0.16
+0.14
+0.09
+fixedStep chrom=chr20 start=29995400 step=100 span=100
+0.08
+0.08
+fixedStep chrom=chr20 start=29995800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=29996400 step=100 span=100
+0.27
+0.31
+0.24
+fixedStep chrom=chr20 start=29996800 step=100 span=100
+0.13
+0.23
+0.12
+0.16
+0.37
+0.51
+0.25
+0.13
+0.17
+0.19
+0.09
+0.11
+0.35
+0.60
+0.41
+0.26
+0.14
+fixedStep chrom=chr20 start=29998600 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=29998800 step=100 span=100
+0.19
+0.15
+0.43
+0.35
+0.53
+0.64
+0.49
+0.13
+fixedStep chrom=chr20 start=29999800 step=100 span=100
+0.06
+0.09
+0.18
+0.34
+0.39
+0.29
+0.16
+0.05
+fixedStep chrom=chr20 start=30000700 step=100 span=100
+0.34
+0.57
+0.64
+0.59
+0.31
+0.10
+0.06
+fixedStep chrom=chr20 start=30001500 step=100 span=100
+0.17
+0.11
+0.08
+0.15
+0.21
+0.09
+0.15
+0.25
+0.67
+0.68
+0.07
+fixedStep chrom=chr20 start=30002800 step=100 span=100
+0.06
+0.39
+0.65
+0.75
+0.71
+0.41
+0.41
+0.27
+0.23
+0.53
+0.52
+0.19
+0.50
+0.59
+0.60
+0.74
+0.62
+fixedStep chrom=chr20 start=30004600 step=100 span=100
+0.13
+fixedStep chrom=chr20 start=30004800 step=100 span=100
+0.15
+0.60
+0.69
+0.63
+0.17
+0.28
+0.37
+0.53
+0.30
+0.06
+fixedStep chrom=chr20 start=30006100 step=100 span=100
+0.22
+0.69
+0.79
+0.72
+0.40
+0.45
+0.40
+0.23
+0.16
+0.33
+0.32
+0.14
+fixedStep chrom=chr20 start=30007400 step=100 span=100
+0.35
+0.78
+0.82
+0.80
+0.56
+0.55
+0.49
+0.09
+0.11
+0.43
+0.60
+0.65
+0.71
+0.73
+0.64
+0.30
+0.71
+0.80
+0.80
+0.34
+0.33
+0.19
+0.21
+0.59
+0.68
+0.70
+0.64
+0.52
+0.21
+0.17
+0.44
+0.59
+0.62
+0.68
+0.50
+fixedStep chrom=chr20 start=30011000 step=100 span=100
+0.46
+0.59
+0.55
+0.52
+0.42
+0.28
+0.20
+0.47
+0.63
+0.61
+0.57
+0.42
+0.05
+fixedStep chrom=chr20 start=30012800 step=100 span=100
+0.07
+0.06
+0.20
+0.27
+0.12
+fixedStep chrom=chr20 start=30013400 step=100 span=100
+0.05
+0.17
+0.24
+0.12
+0.09
+0.09
+0.12
+0.16
+0.16
+0.19
+0.29
+0.39
+0.54
+0.31
+fixedStep chrom=chr20 start=30015100 step=100 span=100
+0.09
+0.09
+0.11
+fixedStep chrom=chr20 start=30015600 step=100 span=100
+0.05
+0.13
+0.09
+0.21
+0.34
+0.34
+fixedStep chrom=chr20 start=30016600 step=100 span=100
+0.07
+0.09
+0.05
+0.10
+0.06
+fixedStep chrom=chr20 start=30017900 step=100 span=100
+0.43
+0.63
+0.61
+fixedStep chrom=chr20 start=30018400 step=100 span=100
+0.11
+0.10
+0.26
+0.54
+0.59
+0.29
+fixedStep chrom=chr20 start=30019500 step=100 span=100
+0.13
+0.21
+0.23
+0.09
+0.31
+0.53
+0.45
+fixedStep chrom=chr20 start=30020300 step=100 span=100
+0.59
+0.62
+0.21
+fixedStep chrom=chr20 start=30021000 step=100 span=100
+0.12
+0.16
+0.16
+0.15
+0.72
+0.57
+0.24
+0.23
+0.24
+fixedStep chrom=chr20 start=30022100 step=100 span=100
+0.15
+0.16
+fixedStep chrom=chr20 start=30022500 step=100 span=100
+0.20
+0.35
+0.19
+0.06
+0.17
+0.11
+0.35
+0.16
+0.30
+0.48
+0.16
+0.10
+fixedStep chrom=chr20 start=30023800 step=100 span=100
+0.05
+0.11
+fixedStep chrom=chr20 start=30024100 step=100 span=100
+0.16
+0.16
+fixedStep chrom=chr20 start=30024500 step=100 span=100
+0.43
+0.58
+0.43
+0.15
+0.43
+0.29
+0.08
+fixedStep chrom=chr20 start=30025500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=30025700 step=100 span=100
+0.19
+0.09
+0.05
+0.06
+0.10
+0.21
+0.26
+0.21
+0.07
+0.14
+0.21
+0.16
+0.71
+0.73
+0.67
+0.72
+0.64
+0.37
+0.50
+0.58
+0.41
+fixedStep chrom=chr20 start=30027900 step=100 span=100
+0.32
+0.37
+0.28
+0.12
+0.11
+0.35
+0.48
+0.38
+0.17
+fixedStep chrom=chr20 start=30028900 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=30029600 step=100 span=100
+0.41
+0.60
+0.44
+0.05
+fixedStep chrom=chr20 start=30030100 step=100 span=100
+0.33
+0.32
+0.10
+fixedStep chrom=chr20 start=30030500 step=100 span=100
+0.17
+0.17
+0.08
+fixedStep chrom=chr20 start=30030900 step=100 span=100
+0.32
+0.60
+0.59
+0.47
+0.76
+0.77
+0.43
+0.29
+0.32
+0.33
+0.25
+0.09
+0.10
+0.07
+0.20
+0.23
+0.21
+0.10
+0.24
+0.27
+0.27
+0.23
+0.35
+0.46
+0.44
+0.08
+0.29
+0.63
+0.59
+0.19
+0.18
+0.60
+0.62
+0.19
+fixedStep chrom=chr20 start=30034500 step=100 span=100
+0.15
+0.13
+0.20
+0.22
+fixedStep chrom=chr20 start=30035000 step=100 span=100
+0.10
+0.17
+0.09
+0.30
+0.20
+0.13
+0.07
+fixedStep chrom=chr20 start=30036000 step=100 span=100
+0.47
+0.48
+0.19
+0.10
+0.22
+0.30
+0.21
+fixedStep chrom=chr20 start=30036800 step=100 span=100
+0.42
+0.21
+0.32
+0.27
+0.11
+0.09
+0.10
+0.11
+fixedStep chrom=chr20 start=30037900 step=100 span=100
+0.10
+0.17
+0.08
+fixedStep chrom=chr20 start=30088800 step=100 span=100
+0.14
+0.17
+0.06
+fixedStep chrom=chr20 start=30089200 step=100 span=100
+0.06
+0.25
+fixedStep chrom=chr20 start=30090100 step=100 span=100
+0.13
+0.11
+0.06
+fixedStep chrom=chr20 start=30090500 step=100 span=100
+0.08
+0.31
+0.20
+0.09
+0.15
+0.13
+0.09
+0.15
+0.27
+0.23
+0.14
+0.05
+fixedStep chrom=chr20 start=30091900 step=100 span=100
+0.06
+0.05
+0.08
+0.13
+0.13
+0.23
+0.14
+0.10
+0.10
+fixedStep chrom=chr20 start=30093300 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=30093500 step=100 span=100
+0.09
+0.10
+0.09
+fixedStep chrom=chr20 start=30094100 step=100 span=100
+0.05
+0.18
+0.20
+0.18
+fixedStep chrom=chr20 start=30094900 step=100 span=100
+0.30
+0.30
+0.22
+0.15
+0.16
+0.29
+0.27
+0.11
+fixedStep chrom=chr20 start=30095800 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=30096100 step=100 span=100
+0.06
+0.11
+0.14
+0.13
+0.17
+0.15
+fixedStep chrom=chr20 start=30097000 step=100 span=100
+0.11
+0.26
+0.21
+0.14
+0.05
+fixedStep chrom=chr20 start=30097800 step=100 span=100
+0.09
+0.05
+0.05
+fixedStep chrom=chr20 start=30098600 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=30099100 step=100 span=100
+0.09
+0.16
+0.11
+0.11
+fixedStep chrom=chr20 start=30099600 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=30100000 step=100 span=100
+0.46
+0.57
+0.56
+fixedStep chrom=chr20 start=30100400 step=100 span=100
+0.07
+0.17
+0.17
+0.11
+0.29
+0.26
+0.17
+fixedStep chrom=chr20 start=30101200 step=100 span=100
+0.12
+0.30
+0.28
+fixedStep chrom=chr20 start=30102200 step=100 span=100
+0.13
+0.10
+fixedStep chrom=chr20 start=30103000 step=100 span=100
+0.35
+0.40
+0.37
+0.06
+fixedStep chrom=chr20 start=30103800 step=100 span=100
+0.09
+0.19
+0.23
+0.18
+fixedStep chrom=chr20 start=30104300 step=100 span=100
+0.09
+0.09
+0.09
+0.20
+0.11
+0.10
+fixedStep chrom=chr20 start=30105000 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=30105800 step=100 span=100
+0.06
+0.07
+0.06
+fixedStep chrom=chr20 start=30106200 step=100 span=100
+0.16
+0.33
+0.28
+0.13
+0.12
+0.08
+fixedStep chrom=chr20 start=30107000 step=100 span=100
+0.29
+0.32
+0.13
+fixedStep chrom=chr20 start=30107900 step=100 span=100
+0.12
+0.12
+fixedStep chrom=chr20 start=30108400 step=100 span=100
+0.13
+0.12
+0.50
+0.38
+0.36
+0.30
+fixedStep chrom=chr20 start=30109300 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=30109800 step=100 span=100
+0.10
+0.08
+0.05
+0.29
+0.32
+0.22
+fixedStep chrom=chr20 start=30110700 step=100 span=100
+0.35
+0.49
+0.43
+0.18
+fixedStep chrom=chr20 start=30111500 step=100 span=100
+0.17
+0.45
+0.53
+0.47
+0.07
+fixedStep chrom=chr20 start=30112300 step=100 span=100
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=30112800 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=30114000 step=100 span=100
+0.09
+0.12
+0.09
+0.08
+0.14
+0.05
+0.05
+0.13
+0.15
+0.13
+0.05
+0.08
+0.06
+0.12
+0.09
+fixedStep chrom=chr20 start=30116000 step=100 span=100
+0.12
+0.15
+0.08
+fixedStep chrom=chr20 start=30117200 step=100 span=100
+0.09
+0.19
+0.19
+fixedStep chrom=chr20 start=30118000 step=100 span=100
+0.09
+0.15
+0.15
+0.10
+0.06
+fixedStep chrom=chr20 start=30118600 step=100 span=100
+0.07
+0.06
+0.10
+0.12
+0.07
+fixedStep chrom=chr20 start=30119400 step=100 span=100
+0.06
+0.13
+0.10
+fixedStep chrom=chr20 start=30119900 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=30120300 step=100 span=100
+0.09
+0.10
+0.13
+0.36
+0.29
+0.11
+fixedStep chrom=chr20 start=30121100 step=100 span=100
+0.11
+0.35
+0.39
+0.32
+0.20
+fixedStep chrom=chr20 start=30121800 step=100 span=100
+0.05
+0.07
+0.20
+0.24
+0.19
+fixedStep chrom=chr20 start=30123800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=30126100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=30126600 step=100 span=100
+0.09
+0.08
+fixedStep chrom=chr20 start=30128200 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=30129000 step=100 span=100
+0.08
+0.10
+0.15
+fixedStep chrom=chr20 start=30129800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=30133000 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=30133500 step=100 span=100
+0.13
+0.13
+0.17
+0.10
+fixedStep chrom=chr20 start=30134300 step=100 span=100
+0.10
+0.18
+0.13
+0.05
+fixedStep chrom=chr20 start=30135600 step=100 span=100
+0.30
+0.27
+0.29
+0.08
+0.10
+0.07
+0.08
+fixedStep chrom=chr20 start=30136500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=30137000 step=100 span=100
+0.05
+0.10
+0.10
+fixedStep chrom=chr20 start=30137600 step=100 span=100
+0.07
+0.35
+0.25
+fixedStep chrom=chr20 start=30138800 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=30139100 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=30139400 step=100 span=100
+0.06
+0.06
+0.06
+0.06
+fixedStep chrom=chr20 start=30140700 step=100 span=100
+0.28
+0.53
+0.56
+0.44
+0.19
+fixedStep chrom=chr20 start=30144800 step=100 span=100
+0.15
+0.40
+0.50
+0.62
+0.51
+0.17
+0.05
+fixedStep chrom=chr20 start=30145800 step=100 span=100
+0.07
+0.10
+fixedStep chrom=chr20 start=30146200 step=100 span=100
+0.05
+0.05
+0.08
+0.07
+0.05
+0.05
+fixedStep chrom=chr20 start=30147100 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=30147500 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=30148100 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=30148900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=30149900 step=100 span=100
+0.45
+0.69
+0.64
+0.45
+0.23
+0.06
+fixedStep chrom=chr20 start=30150700 step=100 span=100
+0.15
+0.25
+0.18
+0.06
+fixedStep chrom=chr20 start=30151600 step=100 span=100
+0.13
+0.24
+0.20
+0.12
+fixedStep chrom=chr20 start=30153200 step=100 span=100
+0.11
+0.16
+0.19
+0.05
+fixedStep chrom=chr20 start=30154100 step=100 span=100
+0.19
+0.17
+0.06
+fixedStep chrom=chr20 start=30159800 step=100 span=100
+0.05
+0.08
+0.07
+0.07
+0.17
+0.37
+0.29
+0.07
+fixedStep chrom=chr20 start=30161300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=30162400 step=100 span=100
+0.40
+0.65
+0.59
+0.40
+0.20
+0.05
+fixedStep chrom=chr20 start=30206500 step=100 span=100
+0.16
+0.36
+0.26
+fixedStep chrom=chr20 start=30207400 step=100 span=100
+0.08
+0.20
+0.18
+fixedStep chrom=chr20 start=30221200 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=30262700 step=100 span=100
+0.60
+0.62
+0.26
+fixedStep chrom=chr20 start=30271000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=30318900 step=100 span=100
+0.10
+0.08
+fixedStep chrom=chr20 start=30321100 step=100 span=100
+0.10
+0.14
+0.07
+fixedStep chrom=chr20 start=30328000 step=100 span=100
+0.05
+0.19
+0.24
+0.17
+fixedStep chrom=chr20 start=30342700 step=100 span=100
+0.27
+0.53
+0.53
+fixedStep chrom=chr20 start=30344100 step=100 span=100
+0.18
+0.17
+0.05
+fixedStep chrom=chr20 start=30364100 step=100 span=100
+0.18
+0.12
+fixedStep chrom=chr20 start=30396800 step=100 span=100
+0.08
+0.08
+fixedStep chrom=chr20 start=30404300 step=100 span=100
+0.07
+0.08
+0.05
+fixedStep chrom=chr20 start=30474500 step=100 span=100
+0.06
+0.19
+0.21
+0.06
+fixedStep chrom=chr20 start=30476600 step=100 span=100
+0.24
+0.39
+0.18
+0.05
+fixedStep chrom=chr20 start=30481800 step=100 span=100
+0.14
+0.13
+0.05
+fixedStep chrom=chr20 start=30482600 step=100 span=100
+0.30
+0.65
+0.66
+0.35
+fixedStep chrom=chr20 start=30652300 step=100 span=100
+0.12
+0.39
+0.55
+0.43
+fixedStep chrom=chr20 start=30653900 step=100 span=100
+0.46
+0.51
+0.33
+0.11
+fixedStep chrom=chr20 start=30661300 step=100 span=100
+0.06
+0.23
+0.48
+0.57
+0.43
+0.11
+fixedStep chrom=chr20 start=30667900 step=100 span=100
+0.12
+0.44
+0.47
+0.27
+0.10
+fixedStep chrom=chr20 start=30852900 step=100 span=100
+0.13
+0.11
+fixedStep chrom=chr20 start=30935900 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=30958700 step=100 span=100
+0.05
+0.05
+0.06
+fixedStep chrom=chr20 start=30965200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=30966400 step=100 span=100
+0.05
+0.19
+0.20
+fixedStep chrom=chr20 start=30969700 step=100 span=100
+0.09
+0.10
+fixedStep chrom=chr20 start=30979500 step=100 span=100
+0.08
+0.12
+fixedStep chrom=chr20 start=30980700 step=100 span=100
+0.07
+0.08
+fixedStep chrom=chr20 start=30981500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31051500 step=100 span=100
+0.05
+0.22
+0.49
+0.60
+0.51
+fixedStep chrom=chr20 start=31052200 step=100 span=100
+0.27
+fixedStep chrom=chr20 start=31052500 step=100 span=100
+0.14
+0.29
+fixedStep chrom=chr20 start=31053000 step=100 span=100
+0.76
+0.68
+0.44
+0.34
+0.51
+0.64
+0.69
+0.55
+fixedStep chrom=chr20 start=31054100 step=100 span=100
+0.34
+0.39
+0.51
+0.67
+0.53
+fixedStep chrom=chr20 start=31054900 step=100 span=100
+0.89
+0.89
+fixedStep chrom=chr20 start=31055200 step=100 span=100
+0.13
+0.32
+0.53
+0.65
+0.75
+0.58
+0.64
+0.07
+0.07
+0.45
+0.56
+0.60
+0.27
+0.50
+0.25
+fixedStep chrom=chr20 start=31056800 step=100 span=100
+0.24
+0.64
+0.63
+0.05
+0.05
+0.21
+0.73
+0.71
+0.46
+0.25
+0.11
+fixedStep chrom=chr20 start=31058800 step=100 span=100
+0.30
+0.20
+0.12
+0.36
+0.52
+fixedStep chrom=chr20 start=31059400 step=100 span=100
+0.07
+0.38
+0.66
+fixedStep chrom=chr20 start=31060200 step=100 span=100
+0.24
+fixedStep chrom=chr20 start=31061000 step=100 span=100
+0.76
+0.18
+0.68
+0.74
+0.71
+0.62
+0.64
+0.58
+0.57
+0.71
+0.73
+0.67
+0.55
+0.48
+fixedStep chrom=chr20 start=31062600 step=100 span=100
+0.59
+0.38
+0.55
+0.27
+fixedStep chrom=chr20 start=31063400 step=100 span=100
+0.48
+0.29
+0.05
+0.29
+fixedStep chrom=chr20 start=31064300 step=100 span=100
+0.65
+0.58
+0.75
+0.64
+0.82
+0.80
+fixedStep chrom=chr20 start=31065400 step=100 span=100
+0.35
+0.69
+0.70
+0.27
+fixedStep chrom=chr20 start=31066100 step=100 span=100
+0.11
+0.27
+0.14
+0.11
+0.47
+0.31
+0.47
+0.23
+0.12
+0.18
+0.39
+0.46
+fixedStep chrom=chr20 start=31067500 step=100 span=100
+0.31
+0.44
+0.63
+0.52
+0.37
+fixedStep chrom=chr20 start=31068400 step=100 span=100
+0.09
+0.14
+fixedStep chrom=chr20 start=31068700 step=100 span=100
+0.11
+0.66
+0.56
+fixedStep chrom=chr20 start=31069300 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=31069600 step=100 span=100
+0.38
+0.46
+0.47
+0.37
+0.21
+0.34
+0.61
+0.46
+0.64
+0.68
+0.42
+0.58
+0.65
+0.57
+0.78
+0.75
+0.10
+0.70
+0.75
+0.55
+0.20
+0.07
+0.09
+0.06
+fixedStep chrom=chr20 start=31072100 step=100 span=100
+0.21
+0.28
+fixedStep chrom=chr20 start=31072400 step=100 span=100
+0.21
+0.55
+0.56
+0.56
+0.63
+fixedStep chrom=chr20 start=31073100 step=100 span=100
+0.57
+0.63
+0.39
+0.11
+fixedStep chrom=chr20 start=31073600 step=100 span=100
+0.32
+0.68
+0.72
+0.58
+0.42
+fixedStep chrom=chr20 start=31074400 step=100 span=100
+0.25
+0.59
+0.33
+0.30
+0.07
+0.17
+0.10
+0.16
+0.24
+fixedStep chrom=chr20 start=31075800 step=100 span=100
+0.13
+0.17
+0.49
+0.33
+0.09
+fixedStep chrom=chr20 start=31077700 step=100 span=100
+0.08
+0.09
+0.05
+fixedStep chrom=chr20 start=31082800 step=100 span=100
+0.08
+0.08
+fixedStep chrom=chr20 start=31086500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31091200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31094800 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=31095600 step=100 span=100
+0.10
+0.09
+fixedStep chrom=chr20 start=31097700 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=31101200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31101400 step=100 span=100
+0.05
+0.10
+fixedStep chrom=chr20 start=31103600 step=100 span=100
+0.09
+0.05
+fixedStep chrom=chr20 start=31104000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=31105800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31106400 step=100 span=100
+0.13
+0.13
+0.10
+fixedStep chrom=chr20 start=31106900 step=100 span=100
+0.18
+fixedStep chrom=chr20 start=31157400 step=100 span=100
+0.07
+0.12
+fixedStep chrom=chr20 start=31157700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31157900 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=31158300 step=100 span=100
+0.06
+0.13
+fixedStep chrom=chr20 start=31165000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31167900 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=31170300 step=100 span=100
+0.10
+0.36
+0.54
+0.62
+0.68
+0.42
+fixedStep chrom=chr20 start=31171500 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=31172000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31172800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31173600 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=31176500 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=31177600 step=100 span=100
+0.40
+0.74
+0.69
+0.56
+0.20
+0.05
+fixedStep chrom=chr20 start=31183900 step=100 span=100
+0.09
+0.07
+fixedStep chrom=chr20 start=31184700 step=100 span=100
+0.06
+0.12
+0.21
+0.49
+0.99
+0.30
+fixedStep chrom=chr20 start=31185500 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=31185900 step=100 span=100
+0.16
+0.07
+0.07
+0.05
+0.05
+fixedStep chrom=chr20 start=31186900 step=100 span=100
+0.18
+0.37
+0.53
+0.64
+0.39
+0.36
+fixedStep chrom=chr20 start=31194600 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=31195400 step=100 span=100
+0.06
+0.09
+0.05
+fixedStep chrom=chr20 start=31195800 step=100 span=100
+0.06
+0.10
+0.12
+fixedStep chrom=chr20 start=31196200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31196500 step=100 span=100
+0.05
+0.17
+0.07
+0.07
+0.10
+0.11
+fixedStep chrom=chr20 start=31197500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31198800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31200200 step=100 span=100
+0.09
+0.08
+fixedStep chrom=chr20 start=31201000 step=100 span=100
+0.12
+0.05
+fixedStep chrom=chr20 start=31203000 step=100 span=100
+0.05
+0.05
+0.05
+0.12
+fixedStep chrom=chr20 start=31203700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31204100 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=31206500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31206700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31207500 step=100 span=100
+0.11
+0.05
+fixedStep chrom=chr20 start=31208300 step=100 span=100
+0.10
+fixedStep chrom=chr20 start=31209300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=31209900 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=31211900 step=100 span=100
+0.09
+0.08
+fixedStep chrom=chr20 start=31212200 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=31213100 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=31213800 step=100 span=100
+0.08
+0.12
+0.09
+fixedStep chrom=chr20 start=31214400 step=100 span=100
+0.10
+0.07
+0.05
+0.06
+fixedStep chrom=chr20 start=31215000 step=100 span=100
+0.10
+0.05
+fixedStep chrom=chr20 start=31215800 step=100 span=100
+0.05
+0.11
+fixedStep chrom=chr20 start=31217300 step=100 span=100
+0.08
+0.14
+fixedStep chrom=chr20 start=31218000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31220100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31220800 step=100 span=100
+0.09
+0.08
+fixedStep chrom=chr20 start=31221200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31221400 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=31222100 step=100 span=100
+0.10
+0.12
+0.06
+fixedStep chrom=chr20 start=31223900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31224700 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=31225100 step=100 span=100
+0.08
+0.08
+fixedStep chrom=chr20 start=31226300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31237800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31241500 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=31452200 step=100 span=100
+0.10
+0.05
+fixedStep chrom=chr20 start=31463200 step=100 span=100
+0.26
+0.20
+0.08
+fixedStep chrom=chr20 start=31469900 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=31518200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=31889400 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=31894000 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=32176100 step=100 span=100
+0.08
+0.12
+0.17
+0.10
+0.10
+0.12
+fixedStep chrom=chr20 start=32176900 step=100 span=100
+0.07
+0.08
+0.07
+fixedStep chrom=chr20 start=32177400 step=100 span=100
+0.06
+0.11
+0.13
+fixedStep chrom=chr20 start=32722600 step=100 span=100
+0.05
+0.16
+0.26
+0.28
+0.10
+0.11
+0.08
+fixedStep chrom=chr20 start=32723700 step=100 span=100
+0.08
+0.06
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=32724300 step=100 span=100
+0.07
+0.06
+0.07
+0.09
+0.10
+0.10
+0.16
+0.30
+0.30
+0.21
+0.12
+fixedStep chrom=chr20 start=32739000 step=100 span=100
+0.09
+0.30
+0.52
+0.67
+0.70
+0.49
+fixedStep chrom=chr20 start=32740200 step=100 span=100
+0.57
+0.73
+0.68
+0.46
+0.22
+fixedStep chrom=chr20 start=32937300 step=100 span=100
+0.20
+0.41
+0.49
+0.32
+fixedStep chrom=chr20 start=32941500 step=100 span=100
+0.05
+0.35
+0.48
+0.41
+0.23
+0.06
+fixedStep chrom=chr20 start=33276700 step=100 span=100
+0.09
+0.10
+0.05
+fixedStep chrom=chr20 start=33277400 step=100 span=100
+0.10
+0.15
+0.11
+fixedStep chrom=chr20 start=33502200 step=100 span=100
+0.10
+0.12
+fixedStep chrom=chr20 start=33512900 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=33698600 step=100 span=100
+0.13
+0.24
+0.32
+0.28
+0.05
+0.05
+0.14
+0.20
+0.20
+0.10
+fixedStep chrom=chr20 start=33700000 step=100 span=100
+0.07
+0.24
+0.28
+0.18
+0.07
+fixedStep chrom=chr20 start=33701300 step=100 span=100
+0.17
+0.44
+0.37
+0.12
+fixedStep chrom=chr20 start=34227800 step=100 span=100
+0.10
+0.16
+0.15
+fixedStep chrom=chr20 start=34230700 step=100 span=100
+0.07
+0.05
+fixedStep chrom=chr20 start=34231400 step=100 span=100
+0.09
+0.18
+0.12
+fixedStep chrom=chr20 start=34359200 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=34360600 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=34527500 step=100 span=100
+0.12
+0.25
+0.32
+0.30
+0.18
+fixedStep chrom=chr20 start=34528100 step=100 span=100
+0.07
+0.05
+0.06
+0.32
+0.36
+0.33
+0.14
+0.06
+fixedStep chrom=chr20 start=34625500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=34653500 step=100 span=100
+0.14
+0.35
+0.54
+0.66
+0.59
+0.32
+fixedStep chrom=chr20 start=34654400 step=100 span=100
+0.05
+0.06
+0.06
+0.06
+0.07
+0.06
+0.05
+0.10
+0.05
+0.05
+fixedStep chrom=chr20 start=34655600 step=100 span=100
+0.05
+0.08
+0.12
+0.14
+0.06
+fixedStep chrom=chr20 start=34656400 step=100 span=100
+0.47
+0.61
+0.60
+0.41
+0.21
+0.07
+fixedStep chrom=chr20 start=34665300 step=100 span=100
+0.20
+0.19
+0.14
+fixedStep chrom=chr20 start=34889400 step=100 span=100
+0.12
+fixedStep chrom=chr20 start=35033300 step=100 span=100
+0.05
+0.13
+0.21
+0.23
+0.17
+fixedStep chrom=chr20 start=35033900 step=100 span=100
+0.19
+0.10
+fixedStep chrom=chr20 start=35034200 step=100 span=100
+0.12
+0.19
+0.22
+0.13
+0.05
+fixedStep chrom=chr20 start=35127900 step=100 span=100
+0.15
+0.35
+0.43
+0.17
+fixedStep chrom=chr20 start=35129000 step=100 span=100
+0.27
+0.51
+0.44
+0.23
+0.06
+fixedStep chrom=chr20 start=35974700 step=100 span=100
+0.13
+0.19
+0.26
+0.29
+0.24
+fixedStep chrom=chr20 start=35975500 step=100 span=100
+0.14
+0.26
+0.32
+0.34
+0.25
+0.05
+fixedStep chrom=chr20 start=36894100 step=100 span=100
+0.07
+0.19
+0.14
+fixedStep chrom=chr20 start=36896100 step=100 span=100
+0.09
+0.29
+0.26
+0.05
+fixedStep chrom=chr20 start=36999400 step=100 span=100
+0.12
+0.16
+0.06
+fixedStep chrom=chr20 start=37001400 step=100 span=100
+0.14
+0.29
+0.18
+fixedStep chrom=chr20 start=37186800 step=100 span=100
+0.09
+0.15
+0.14
+0.09
+fixedStep chrom=chr20 start=37187300 step=100 span=100
+0.08
+0.06
+0.05
+0.11
+0.08
+0.14
+0.11
+fixedStep chrom=chr20 start=37368600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=38379600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=38386700 step=100 span=100
+0.08
+0.11
+fixedStep chrom=chr20 start=38426000 step=100 span=100
+0.13
+0.33
+0.52
+0.55
+0.33
+fixedStep chrom=chr20 start=38427100 step=100 span=100
+0.09
+0.42
+0.46
+0.35
+0.20
+0.09
+fixedStep chrom=chr20 start=38510400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=38511000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=38596500 step=100 span=100
+0.26
+0.26
+0.18
+fixedStep chrom=chr20 start=40983400 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=41253700 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=41257300 step=100 span=100
+0.07
+0.14
+0.17
+0.08
+fixedStep chrom=chr20 start=41258000 step=100 span=100
+0.05
+0.22
+0.20
+0.13
+0.05
+fixedStep chrom=chr20 start=41277200 step=100 span=100
+0.11
+0.40
+0.65
+0.75
+0.66
+0.29
+fixedStep chrom=chr20 start=41278800 step=100 span=100
+0.18
+0.66
+0.70
+0.59
+0.42
+0.17
+fixedStep chrom=chr20 start=41707400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=41708200 step=100 span=100
+0.09
+0.25
+0.19
+fixedStep chrom=chr20 start=41711900 step=100 span=100
+0.14
+0.21
+0.14
+fixedStep chrom=chr20 start=42215600 step=100 span=100
+0.26
+0.25
+fixedStep chrom=chr20 start=42315100 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=42508700 step=100 span=100
+0.05
+0.08
+0.07
+fixedStep chrom=chr20 start=42509600 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=42616900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=42633800 step=100 span=100
+0.12
+0.09
+fixedStep chrom=chr20 start=42724500 step=100 span=100
+0.05
+0.22
+0.30
+0.06
+fixedStep chrom=chr20 start=42725900 step=100 span=100
+0.09
+0.26
+0.20
+0.10
+fixedStep chrom=chr20 start=43175300 step=100 span=100
+0.05
+0.23
+0.25
+0.12
+fixedStep chrom=chr20 start=43176200 step=100 span=100
+0.19
+0.29
+0.20
+0.09
+fixedStep chrom=chr20 start=43395400 step=100 span=100
+0.07
+0.19
+0.30
+0.46
+0.56
+0.44
+0.10
+fixedStep chrom=chr20 start=43396300 step=100 span=100
+0.06
+0.12
+0.15
+0.17
+0.15
+0.09
+fixedStep chrom=chr20 start=43397000 step=100 span=100
+0.05
+0.25
+0.49
+0.50
+0.40
+0.25
+0.08
+fixedStep chrom=chr20 start=43642800 step=100 span=100
+0.11
+0.21
+0.29
+0.26
+0.09
+fixedStep chrom=chr20 start=43643400 step=100 span=100
+0.23
+0.22
+0.24
+0.24
+0.17
+0.24
+0.21
+0.28
+0.28
+0.31
+0.29
+0.18
+0.13
+0.14
+0.17
+0.17
+0.22
+0.25
+0.34
+0.28
+0.18
+0.15
+0.11
+0.21
+0.20
+0.11
+0.24
+0.27
+0.23
+0.08
+fixedStep chrom=chr20 start=43852200 step=100 span=100
+0.29
+0.53
+0.72
+0.70
+0.50
+0.06
+0.09
+0.09
+0.05
+fixedStep chrom=chr20 start=43853600 step=100 span=100
+0.06
+0.07
+0.08
+0.06
+fixedStep chrom=chr20 start=43854100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=43854500 step=100 span=100
+0.05
+0.08
+0.08
+0.08
+0.06
+fixedStep chrom=chr20 start=43855100 step=100 span=100
+0.41
+0.69
+0.68
+0.54
+0.33
+0.09
+fixedStep chrom=chr20 start=44026100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=44047500 step=100 span=100
+0.19
+0.07
+0.09
+fixedStep chrom=chr20 start=44134300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=44672200 step=100 span=100
+0.06
+0.06
+0.07
+0.05
+fixedStep chrom=chr20 start=44676700 step=100 span=100
+0.22
+0.54
+0.68
+0.71
+0.63
+0.33
+0.08
+0.08
+0.07
+fixedStep chrom=chr20 start=44678000 step=100 span=100
+0.08
+0.07
+fixedStep chrom=chr20 start=44678300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=44678500 step=100 span=100
+0.05
+0.05
+0.05
+0.05
+0.07
+0.06
+fixedStep chrom=chr20 start=44679900 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=44680200 step=100 span=100
+0.44
+0.66
+0.65
+0.57
+0.37
+0.20
+fixedStep chrom=chr20 start=44683200 step=100 span=100
+0.64
+0.78
+0.80
+0.72
+fixedStep chrom=chr20 start=44698500 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=45574900 step=100 span=100
+0.05
+0.20
+0.26
+0.38
+0.34
+0.06
+fixedStep chrom=chr20 start=45578600 step=100 span=100
+0.22
+0.43
+0.37
+0.28
+0.13
+fixedStep chrom=chr20 start=45719900 step=100 span=100
+0.05
+0.13
+0.08
+fixedStep chrom=chr20 start=45751000 step=100 span=100
+0.12
+0.11
+fixedStep chrom=chr20 start=45761300 step=100 span=100
+0.38
+0.46
+0.28
+fixedStep chrom=chr20 start=45906200 step=100 span=100
+0.10
+0.28
+0.42
+0.51
+0.43
+0.17
+0.12
+0.14
+0.16
+0.22
+0.47
+0.52
+0.46
+0.31
+0.12
+fixedStep chrom=chr20 start=46163200 step=100 span=100
+0.12
+0.27
+0.37
+0.34
+0.08
+fixedStep chrom=chr20 start=46165400 step=100 span=100
+0.38
+0.40
+0.32
+0.11
+fixedStep chrom=chr20 start=47156200 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=47389800 step=100 span=100
+0.11
+0.31
+0.42
+0.40
+0.31
+fixedStep chrom=chr20 start=47390600 step=100 span=100
+0.08
+0.32
+0.38
+0.33
+0.24
+0.11
+fixedStep chrom=chr20 start=47554400 step=100 span=100
+0.07
+0.15
+0.10
+0.12
+fixedStep chrom=chr20 start=47834400 step=100 span=100
+0.06
+0.08
+fixedStep chrom=chr20 start=47838300 step=100 span=100
+0.18
+0.37
+0.24
+fixedStep chrom=chr20 start=47890300 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=47891000 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=47894700 step=100 span=100
+0.69
+0.67
+0.57
+0.22
+0.19
+0.16
+0.24
+0.35
+0.41
+0.54
+0.64
+0.56
+0.34
+0.08
+fixedStep chrom=chr20 start=47902600 step=100 span=100
+0.31
+0.44
+0.37
+fixedStep chrom=chr20 start=47983600 step=100 span=100
+0.31
+0.29
+fixedStep chrom=chr20 start=48124700 step=100 span=100
+0.05
+0.06
+fixedStep chrom=chr20 start=48213900 step=100 span=100
+0.08
+0.17
+0.13
+fixedStep chrom=chr20 start=48214500 step=100 span=100
+0.05
+0.22
+0.27
+0.20
+0.08
+fixedStep chrom=chr20 start=48495400 step=100 span=100
+0.10
+0.11
+0.08
+fixedStep chrom=chr20 start=48496400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=48503200 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=48503400 step=100 span=100
+0.09
+0.08
+fixedStep chrom=chr20 start=48503800 step=100 span=100
+0.05
+0.19
+0.39
+0.33
+0.32
+0.10
+0.08
+0.06
+0.09
+0.13
+0.07
+fixedStep chrom=chr20 start=48505000 step=100 span=100
+0.08
+0.21
+0.40
+0.40
+0.10
+0.15
+0.25
+0.34
+0.47
+0.32
+fixedStep chrom=chr20 start=48506100 step=100 span=100
+0.34
+0.49
+0.61
+0.23
+0.10
+fixedStep chrom=chr20 start=48506700 step=100 span=100
+0.26
+0.59
+0.69
+0.64
+0.58
+0.60
+0.48
+0.26
+0.05
+0.06
+0.28
+0.53
+0.52
+0.38
+0.32
+0.16
+fixedStep chrom=chr20 start=48508500 step=100 span=100
+0.06
+0.11
+0.25
+0.46
+0.40
+0.56
+0.44
+0.18
+0.18
+0.27
+0.28
+0.16
+0.14
+0.32
+0.48
+0.55
+0.44
+0.48
+0.46
+0.41
+0.34
+0.37
+0.21
+fixedStep chrom=chr20 start=48510900 step=100 span=100
+0.06
+0.11
+0.09
+fixedStep chrom=chr20 start=48511500 step=100 span=100
+0.10
+0.12
+fixedStep chrom=chr20 start=48512000 step=100 span=100
+0.28
+0.35
+0.22
+0.10
+0.11
+0.18
+0.58
+0.57
+0.45
+fixedStep chrom=chr20 start=48513300 step=100 span=100
+0.05
+0.06
+0.27
+0.25
+0.19
+0.45
+0.43
+0.29
+0.14
+fixedStep chrom=chr20 start=48514400 step=100 span=100
+0.18
+0.32
+0.60
+0.77
+0.77
+0.63
+0.26
+0.35
+0.23
+0.07
+fixedStep chrom=chr20 start=48515500 step=100 span=100
+0.14
+0.38
+0.43
+0.38
+0.30
+0.17
+0.55
+0.61
+0.48
+fixedStep chrom=chr20 start=48598000 step=100 span=100
+0.42
+0.51
+0.40
+fixedStep chrom=chr20 start=48758400 step=100 span=100
+0.14
+0.26
+0.14
+fixedStep chrom=chr20 start=48761200 step=100 span=100
+0.19
+0.21
+0.14
+fixedStep chrom=chr20 start=49107600 step=100 span=100
+0.12
+0.26
+0.40
+0.35
+0.32
+0.19
+fixedStep chrom=chr20 start=49108400 step=100 span=100
+0.10
+0.31
+0.41
+0.38
+0.35
+0.23
+0.07
+fixedStep chrom=chr20 start=49195300 step=100 span=100
+0.21
+0.33
+0.12
+fixedStep chrom=chr20 start=49740400 step=100 span=100
+0.06
+0.20
+0.12
+0.05
+fixedStep chrom=chr20 start=49933100 step=100 span=100
+0.08
+0.25
+0.11
+fixedStep chrom=chr20 start=50155700 step=100 span=100
+0.07
+0.17
+0.26
+0.31
+0.29
+0.07
+0.05
+0.09
+0.05
+0.18
+0.19
+0.23
+0.22
+0.16
+fixedStep chrom=chr20 start=50640400 step=100 span=100
+0.22
+0.20
+fixedStep chrom=chr20 start=50640900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=50769000 step=100 span=100
+0.13
+0.19
+0.17
+0.07
+fixedStep chrom=chr20 start=50771900 step=100 span=100
+0.11
+0.11
+0.11
+fixedStep chrom=chr20 start=51875200 step=100 span=100
+0.15
+0.29
+0.32
+0.16
+fixedStep chrom=chr20 start=51876000 step=100 span=100
+0.17
+0.22
+0.21
+0.08
+fixedStep chrom=chr20 start=52035000 step=100 span=100
+0.06
+0.14
+0.06
+fixedStep chrom=chr20 start=52038000 step=100 span=100
+0.13
+0.09
+0.05
+fixedStep chrom=chr20 start=52142200 step=100 span=100
+0.12
+0.33
+0.54
+0.64
+0.51
+fixedStep chrom=chr20 start=52142800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=52143000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=52144000 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=52144400 step=100 span=100
+0.44
+0.68
+0.59
+0.42
+0.16
+fixedStep chrom=chr20 start=52553700 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=52554400 step=100 span=100
+0.05
+0.07
+0.05
+fixedStep chrom=chr20 start=53668600 step=100 span=100
+0.27
+0.50
+0.57
+0.33
+fixedStep chrom=chr20 start=53675300 step=100 span=100
+0.09
+0.51
+0.57
+0.33
+0.07
+fixedStep chrom=chr20 start=53719000 step=100 span=100
+0.20
+0.51
+0.64
+0.56
+0.09
+fixedStep chrom=chr20 start=53719900 step=100 span=100
+0.09
+0.57
+0.69
+0.51
+0.33
+0.11
+fixedStep chrom=chr20 start=53836000 step=100 span=100
+0.07
+0.20
+0.35
+0.45
+0.25
+fixedStep chrom=chr20 start=53836900 step=100 span=100
+0.11
+0.45
+0.50
+0.43
+0.19
+fixedStep chrom=chr20 start=53841100 step=100 span=100
+0.05
+0.06
+0.06
+fixedStep chrom=chr20 start=53841900 step=100 span=100
+0.06
+0.08
+fixedStep chrom=chr20 start=54030100 step=100 span=100
+0.09
+0.24
+0.40
+0.36
+0.07
+fixedStep chrom=chr20 start=54041400 step=100 span=100
+0.12
+0.46
+0.50
+0.37
+0.06
+fixedStep chrom=chr20 start=54249400 step=100 span=100
+0.16
+0.30
+0.14
+fixedStep chrom=chr20 start=54250800 step=100 span=100
+0.11
+0.21
+0.13
+0.07
+fixedStep chrom=chr20 start=54675700 step=100 span=100
+0.08
+0.10
+0.09
+0.05
+fixedStep chrom=chr20 start=54676200 step=100 span=100
+0.16
+0.18
+fixedStep chrom=chr20 start=54676500 step=100 span=100
+0.11
+0.12
+0.07
+fixedStep chrom=chr20 start=55083500 step=100 span=100
+0.06
+0.08
+fixedStep chrom=chr20 start=55084400 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=55497100 step=100 span=100
+0.06
+0.25
+0.33
+0.33
+0.18
+fixedStep chrom=chr20 start=55497700 step=100 span=100
+0.06
+0.13
+fixedStep chrom=chr20 start=55498000 step=100 span=100
+0.22
+0.32
+0.28
+0.12
+fixedStep chrom=chr20 start=55499500 step=100 span=100
+0.06
+0.09
+fixedStep chrom=chr20 start=55532300 step=100 span=100
+0.06
+0.06
+0.17
+0.25
+0.15
+fixedStep chrom=chr20 start=55533100 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=55627800 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=55808700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=55859000 step=100 span=100
+0.05
+0.20
+0.39
+0.50
+0.55
+0.42
+0.05
+fixedStep chrom=chr20 start=55860000 step=100 span=100
+0.12
+0.14
+0.12
+0.06
+fixedStep chrom=chr20 start=55860900 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=55861300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=55861800 step=100 span=100
+0.13
+0.07
+fixedStep chrom=chr20 start=55865200 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=55865500 step=100 span=100
+0.32
+0.56
+0.57
+0.46
+0.33
+0.20
+0.05
+fixedStep chrom=chr20 start=55887700 step=100 span=100
+0.07
+0.12
+0.16
+0.21
+0.11
+0.09
+0.11
+fixedStep chrom=chr20 start=55888500 step=100 span=100
+0.10
+0.13
+0.15
+0.14
+0.08
+fixedStep chrom=chr20 start=55944900 step=100 span=100
+0.15
+0.22
+0.23
+fixedStep chrom=chr20 start=55945700 step=100 span=100
+0.06
+0.08
+fixedStep chrom=chr20 start=56175000 step=100 span=100
+0.05
+0.08
+fixedStep chrom=chr20 start=56179900 step=100 span=100
+0.10
+0.06
+fixedStep chrom=chr20 start=56744800 step=100 span=100
+0.07
+0.10
+fixedStep chrom=chr20 start=56830900 step=100 span=100
+0.05
+0.07
+fixedStep chrom=chr20 start=56853300 step=100 span=100
+0.10
+0.06
+fixedStep chrom=chr20 start=57011800 step=100 span=100
+0.05
+0.22
+0.39
+0.46
+0.26
+fixedStep chrom=chr20 start=57012800 step=100 span=100
+0.22
+0.51
+0.44
+0.23
+0.05
+fixedStep chrom=chr20 start=57030800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=57503800 step=100 span=100
+0.14
+0.41
+0.48
+0.18
+fixedStep chrom=chr20 start=57505400 step=100 span=100
+0.08
+0.38
+0.39
+0.20
+0.08
+fixedStep chrom=chr20 start=57948800 step=100 span=100
+0.07
+0.07
+fixedStep chrom=chr20 start=59147900 step=100 span=100
+0.14
+0.32
+0.40
+0.39
+0.11
+fixedStep chrom=chr20 start=59148700 step=100 span=100
+0.11
+0.38
+0.38
+0.32
+0.18
+0.05
+fixedStep chrom=chr20 start=59210400 step=100 span=100
+0.08
+0.12
+0.09
+0.05
+fixedStep chrom=chr20 start=59211100 step=100 span=100
+0.07
+0.11
+0.10
+0.08
+0.05
+fixedStep chrom=chr20 start=59384300 step=100 span=100
+0.12
+0.26
+0.20
+0.06
+fixedStep chrom=chr20 start=59385100 step=100 span=100
+0.07
+0.14
+0.11
+fixedStep chrom=chr20 start=60351200 step=100 span=100
+0.06
+0.10
+0.07
+0.06
+fixedStep chrom=chr20 start=60352000 step=100 span=100
+0.06
+0.11
+0.09
+fixedStep chrom=chr20 start=60408800 step=100 span=100
+0.15
+0.18
+0.06
+fixedStep chrom=chr20 start=60409500 step=100 span=100
+0.08
+0.35
+0.29
+fixedStep chrom=chr20 start=60409900 step=100 span=100
+0.12
+0.06
+fixedStep chrom=chr20 start=60410700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=60536200 step=100 span=100
+0.16
+0.33
+0.52
+0.45
+0.08
+fixedStep chrom=chr20 start=60549800 step=100 span=100
+0.22
+0.47
+0.42
+0.20
+fixedStep chrom=chr20 start=60992700 step=100 span=100
+0.19
+0.42
+0.32
+0.21
+0.07
+fixedStep chrom=chr20 start=61014800 step=100 span=100
+0.05
+0.14
+0.28
+0.31
+0.17
+fixedStep chrom=chr20 start=61101300 step=100 span=100
+0.05
+0.09
+0.19
+0.41
+0.55
+0.62
+0.50
+0.09
+0.17
+0.14
+0.11
+fixedStep chrom=chr20 start=61102500 step=100 span=100
+0.54
+0.67
+0.61
+0.42
+0.22
+fixedStep chrom=chr20 start=61201700 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=61202400 step=100 span=100
+0.09
+fixedStep chrom=chr20 start=61283300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=61349800 step=100 span=100
+0.06
+0.07
+0.07
+fixedStep chrom=chr20 start=61350600 step=100 span=100
+0.08
+0.08
+0.05
+fixedStep chrom=chr20 start=61383300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=61398600 step=100 span=100
+0.07
+0.28
+0.34
+0.34
+0.24
+fixedStep chrom=chr20 start=61399200 step=100 span=100
+0.07
+0.11
+fixedStep chrom=chr20 start=61399500 step=100 span=100
+0.29
+0.33
+0.32
+0.23
+0.09
+fixedStep chrom=chr20 start=61505200 step=100 span=100
+0.12
+0.18
+0.25
+0.15
+fixedStep chrom=chr20 start=61506000 step=100 span=100
+0.19
+0.24
+0.17
+0.10
+fixedStep chrom=chr20 start=61641200 step=100 span=100
+0.08
+0.12
+0.06
+0.06
+fixedStep chrom=chr20 start=61642000 step=100 span=100
+0.08
+0.10
+0.07
+0.07
+fixedStep chrom=chr20 start=61653200 step=100 span=100
+0.07
+0.13
+0.11
+fixedStep chrom=chr20 start=61653700 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=61653900 step=100 span=100
+0.07
+0.11
+0.12
+0.08
+fixedStep chrom=chr20 start=61783000 step=100 span=100
+0.12
+0.25
+0.30
+0.31
+0.16
+0.09
+0.12
+0.06
+fixedStep chrom=chr20 start=61783900 step=100 span=100
+0.17
+0.19
+0.17
+0.07
+0.09
+0.18
+0.13
+fixedStep chrom=chr20 start=61784700 step=100 span=100
+0.05
+0.09
+0.08
+0.07
+0.05
+fixedStep chrom=chr20 start=61942700 step=100 span=100
+0.10
+0.23
+0.23
+0.16
+0.09
+0.06
+fixedStep chrom=chr20 start=61943400 step=100 span=100
+0.07
+0.11
+0.21
+0.23
+0.05
+0.10
+0.10
+0.05
+0.16
+0.23
+0.27
+0.32
+0.20
+0.08
+fixedStep chrom=chr20 start=61944900 step=100 span=100
+0.05
+0.19
+0.43
+0.42
+0.13
+0.25
+0.44
+0.35
+0.39
+0.21
+fixedStep chrom=chr20 start=61946000 step=100 span=100
+0.07
+0.06
+0.08
+0.06
+0.07
+0.11
+fixedStep chrom=chr20 start=61946700 step=100 span=100
+0.16
+0.21
+0.22
+fixedStep chrom=chr20 start=61947300 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=61947600 step=100 span=100
+0.14
+0.21
+0.12
+0.23
+0.27
+0.34
+0.22
+0.14
+0.18
+0.23
+0.11
+fixedStep chrom=chr20 start=61948800 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=61950700 step=100 span=100
+0.06
+0.07
+0.05
+0.05
+fixedStep chrom=chr20 start=61951300 step=100 span=100
+0.22
+0.13
+fixedStep chrom=chr20 start=61951600 step=100 span=100
+0.13
+0.07
+0.07
+0.05
+fixedStep chrom=chr20 start=61970500 step=100 span=100
+0.16
+0.21
+0.13
+0.05
+0.24
+0.08
+fixedStep chrom=chr20 start=61971300 step=100 span=100
+0.11
+0.13
+fixedStep chrom=chr20 start=61971600 step=100 span=100
+0.08
+0.25
+0.20
+0.06
+fixedStep chrom=chr20 start=61995100 step=100 span=100
+0.08
+0.13
+0.16
+0.17
+0.06
+0.12
+0.09
+fixedStep chrom=chr20 start=61995900 step=100 span=100
+0.12
+0.19
+0.15
+0.15
+0.08
+fixedStep chrom=chr20 start=62057300 step=100 span=100
+0.07
+0.11
+0.12
+0.07
+fixedStep chrom=chr20 start=62058000 step=100 span=100
+0.11
+0.18
+0.31
+0.46
+0.12
+fixedStep chrom=chr20 start=62058600 step=100 span=100
+0.15
+0.06
+fixedStep chrom=chr20 start=62058900 step=100 span=100
+0.09
+0.18
+0.07
+fixedStep chrom=chr20 start=62213200 step=100 span=100
+0.05
+0.05
+fixedStep chrom=chr20 start=62270400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=62360000 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=62360200 step=100 span=100
+0.09
+0.08
+fixedStep chrom=chr20 start=62360700 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=62360900 step=100 span=100
+0.06
+0.08
+fixedStep chrom=chr20 start=62672300 step=100 span=100
+0.07
+0.21
+0.47
+0.62
+0.67
+0.52
+0.08
+0.05
+fixedStep chrom=chr20 start=62673200 step=100 span=100
+0.07
+0.07
+0.09
+fixedStep chrom=chr20 start=62673700 step=100 span=100
+0.32
+0.58
+0.61
+0.51
+0.40
+0.17
+fixedStep chrom=chr20 start=62741000 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=62743500 step=100 span=100
+0.08
+0.05
+fixedStep chrom=chr20 start=62965900 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=62966400 step=100 span=100
+0.06
+0.06
+fixedStep chrom=chr20 start=62966700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=62991800 step=100 span=100
+0.11
+0.26
+0.42
+0.19
+fixedStep chrom=chr20 start=62993900 step=100 span=100
+0.10
+0.30
+0.23
+0.09
+fixedStep chrom=chr20 start=63028600 step=100 span=100
+0.14
+0.20
+0.14
+fixedStep chrom=chr20 start=63029300 step=100 span=100
+0.12
+0.20
+0.15
+0.12
+fixedStep chrom=chr20 start=63092900 step=100 span=100
+0.07
+0.15
+0.23
+0.27
+0.13
+0.27
+0.19
+0.18
+0.29
+0.21
+0.30
+0.31
+0.32
+0.15
+0.28
+0.25
+0.16
+0.10
+fixedStep chrom=chr20 start=63134100 step=100 span=100
+0.08
+0.15
+0.24
+0.30
+0.21
+0.09
+fixedStep chrom=chr20 start=63135100 step=100 span=100
+0.34
+0.29
+fixedStep chrom=chr20 start=63135400 step=100 span=100
+0.09
+0.16
+0.08
+fixedStep chrom=chr20 start=63156400 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=63156600 step=100 span=100
+0.06
+0.05
+fixedStep chrom=chr20 start=63157100 step=100 span=100
+0.06
+0.13
+0.05
+fixedStep chrom=chr20 start=63221100 step=100 span=100
+0.05
+0.06
+0.05
+fixedStep chrom=chr20 start=63221800 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=63222100 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=63392900 step=100 span=100
+0.06
+0.06
+0.11
+fixedStep chrom=chr20 start=63393700 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=63558900 step=100 span=100
+0.06
+0.20
+0.22
+0.29
+0.25
+0.10
+fixedStep chrom=chr20 start=63559600 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=63559800 step=100 span=100
+0.17
+0.24
+0.23
+0.19
+0.10
+fixedStep chrom=chr20 start=63571000 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=63571200 step=100 span=100
+0.05
+0.06
+0.33
+0.43
+0.28
+0.05
+fixedStep chrom=chr20 start=63572300 step=100 span=100
+0.16
+0.06
+fixedStep chrom=chr20 start=63608000 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=63608200 step=100 span=100
+0.05
+0.14
+fixedStep chrom=chr20 start=63608600 step=100 span=100
+0.06
+0.13
+0.42
+0.24
+0.13
+0.09
+fixedStep chrom=chr20 start=63609300 step=100 span=100
+0.09
+0.05
+fixedStep chrom=chr20 start=63609600 step=100 span=100
+0.42
+0.50
+0.35
+0.08
+fixedStep chrom=chr20 start=63635700 step=100 span=100
+0.18
+0.32
+0.44
+0.46
+0.30
+fixedStep chrom=chr20 start=63636300 step=100 span=100
+0.21
+0.18
+0.21
+0.09
+0.43
+0.50
+0.33
+0.20
+0.09
+fixedStep chrom=chr20 start=63638900 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=63647300 step=100 span=100
+0.06
+0.07
+0.11
+fixedStep chrom=chr20 start=63648000 step=100 span=100
+0.07
+0.09
+fixedStep chrom=chr20 start=63669500 step=100 span=100
+0.12
+0.14
+0.06
+fixedStep chrom=chr20 start=63670400 step=100 span=100
+0.11
+0.10
+fixedStep chrom=chr20 start=63760200 step=100 span=100
+0.05
+0.19
+0.43
+0.46
+0.33
+0.08
+fixedStep chrom=chr20 start=63761200 step=100 span=100
+0.29
+0.57
+0.53
+0.27
+0.10
+fixedStep chrom=chr20 start=63770700 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=63879300 step=100 span=100
+0.06
+0.17
+0.36
+0.25
+fixedStep chrom=chr20 start=63880300 step=100 span=100
+0.08
+0.25
+0.29
+0.06
+fixedStep chrom=chr20 start=63919500 step=100 span=100
+0.06
+0.07
+fixedStep chrom=chr20 start=63942400 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=63964300 step=100 span=100
+0.10
+0.26
+0.33
+0.40
+0.41
+0.24
+0.05
+0.05
+0.05
+fixedStep chrom=chr20 start=63965300 step=100 span=100
+0.06
+0.19
+0.26
+0.29
+0.07
+0.09
+0.07
+0.13
+0.42
+0.51
+0.39
+0.27
+0.12
+fixedStep chrom=chr20 start=64012900 step=100 span=100
+0.07
+fixedStep chrom=chr20 start=64090500 step=100 span=100
+0.06
+0.08
+0.05
+fixedStep chrom=chr20 start=64091300 step=100 span=100
+0.07
+0.08
+fixedStep chrom=chr20 start=64126100 step=100 span=100
+0.10
+0.05
+fixedStep chrom=chr20 start=64126700 step=100 span=100
+0.12
+0.07
+0.20
+fixedStep chrom=chr20 start=64127100 step=100 span=100
+0.23
+0.36
+0.16
+fixedStep chrom=chr20 start=64127500 step=100 span=100
+0.11
+fixedStep chrom=chr20 start=64127800 step=100 span=100
+0.06
+fixedStep chrom=chr20 start=64131400 step=100 span=100
+0.05
+0.07
+0.06
+0.08
+fixedStep chrom=chr20 start=64132000 step=100 span=100
+0.13
+0.19
+0.25
+0.25
+0.25
+0.38
+0.26
+0.30
+0.05
+0.26
+0.32
+0.25
+0.30
+0.31
+0.43
+0.12
+0.15
+0.15
+0.08
+0.19
+0.23
+0.13
+0.06
+fixedStep chrom=chr20 start=64135100 step=100 span=100
+0.07
+0.17
+0.36
+0.40
+0.25
+fixedStep chrom=chr20 start=64135700 step=100 span=100
+0.15
+0.12
+fixedStep chrom=chr20 start=64136000 step=100 span=100
+0.15
+0.12
+0.14
+0.19
+0.18
+fixedStep chrom=chr20 start=64136600 step=100 span=100
+0.10
+0.05
+fixedStep chrom=chr20 start=64175700 step=100 span=100
+0.08
+fixedStep chrom=chr20 start=64270500 step=100 span=100
+0.06
+0.15
+0.36
+0.49
+0.36
+0.14
+0.13
+fixedStep chrom=chr20 start=64271300 step=100 span=100
+0.05
+fixedStep chrom=chr20 start=64271500 step=100 span=100
+0.16
+0.26
+0.30
+0.16
+fixedStep chrom=chr20 start=64277400 step=100 span=100
+0.06
